@@ -11,4 +11,4 @@
     - [V1.0.0010](www.google.com)
     
 - Stand Alone Terminal
-    - [V1.0.1500](www.google.com)
+    - [V1.7.2](https://www.dropbox.com/sh/6dceb85x376m5ug/AABGDrDGPIgwz-JTSJI9Mvw9a?dl=0)
