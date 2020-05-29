@@ -4,12 +4,16 @@
 
 
 - Local Agent
-    - [V2.0.8154](https://www.dropbox.com/sh/4jwvwu6y8bm9mfo/AABae0qaHtyc0voGJurzuW79a?dl=0)
+    - English [V2.0.8200](https://www.dropbox.com/s/srhltka6ykhl8g8/LA%202.0.8200%20EN.zip?dl=1)
+    - Español [V2.0.8200](https://www.dropbox.com/s/91eueg5s2a864c0/LA%202.0.8200%20ES.zip?dl=0)
+    - English [V2.0.8155](https://www.dropbox.com/s/ks83r3hd227n7lh/LA%202.0.8155%20EN.zip?dl=1)
+    - English [V2.0.8154](https://www.dropbox.com/s/zyuyw1iwinl123n/LA%202.0.8154%20EN.zip?dl=1)
+    - Español [V2.0.8154](https://www.dropbox.com/s/98bir54aht38jkz/LA%202.0.8154%20ES.zip?dl=1)
     
 - Inventory Client
     - [V1.0.0](https://www.dropbox.com/sh/qu5e7vufdclpb0w/AADci_JJLn7MIM2Gcqb3Bxeoa?dl=0)
     
 - Stand Alone Terminal
-    - [V2.0.0202](https://www.dropbox.com/sh/4qq8cfw1zgyoya9/AABzIl1WjcrazmLiEUkMN0Lra/AtioNet/Stand%20Alone%20Terminal?dl=0&preview=StandAlone+(2.0.0202)+EVO.zip&subfolder_nav_tracking=1)
-    - [V2.0.0201](https://uc8d4078b155ba89361ffe600401.dl.dropboxusercontent.com/cd/0/get/A2zb0vCJ5f3cdYHfqmLggwflz6IAjHP4w4NuHCCA1qViriO78Gl2sTF8U9ShYuKd0ox-Z0ZBAvUq9pX7NFrVOrl6xVImkgIkHezk6xyU1U0pGoy3YYPjZmcrKOMTUbLPJcg/file?_download_id=284006306894987408749254367131709162537099503205052280016337141435&_notify_domain=www.dropbox.com&dl=1)
-    - [V1.7.2](https://www.dropbox.com/sh/6dceb85x376m5ug/AABGDrDGPIgwz-JTSJI9Mvw9a?dl=0)
+    - [V2.0.0202](https://www.dropbox.com/s/22cr5ph7qbnp21g/StandAlone%20%282.0.0202%29%20EVO.zip?dl=1)
+    - [V2.0.0201](https://www.dropbox.com/s/1qkfybuycnai90f/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
+    - [V1.7.2](https://www.dropbox.com/sh/em66o9c4b46y7pl/AACwEBz1_Oh7CvFsgbK-iyMJa?dl=1)
