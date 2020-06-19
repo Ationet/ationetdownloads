@@ -10,6 +10,13 @@
     - English [V2.0.8154](https://www.dropbox.com/s/zyuyw1iwinl123n/LA%202.0.8154%20EN.zip?dl=1)
     - Español [V2.0.8154](https://www.dropbox.com/s/98bir54aht38jkz/LA%202.0.8154%20ES.zip?dl=1)
     
+- Local Agent Pre-requisites
+    - [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
+    - [DotNetFx461](https://www.dropbox.com/sh/x0qtgqt3buzhfr9/AABsyITBISSDy7ZafQZkdjala?dl=1)
+    - [SqlExpress2008 Atio](https://www.dropbox.com/sh/lx26m2y2skcon6j/AAAKPrUJJMc5Wp-wwHuvIiaUa?dl=1)
+    - [WindowsInstaller3_1](https://www.dropbox.com/sh/tux9q81jdiyclh7/AAAerioCPLA_ujYoV-2G7UAEa?dl=1)
+    - [WindowsInstaller4_5](https://www.dropbox.com/sh/mgvabdkqkqs937u/AABqq6mURy_cOPpOuaxljPh4a?dl=1)
+    
 - Inventory Client
     - [V1.0.0](https://www.dropbox.com/sh/r392inzpg4rm285/AABrihonblcKT6CE5eGxNNIFa?dl=1)
     
