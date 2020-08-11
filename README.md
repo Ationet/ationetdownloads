@@ -8,8 +8,6 @@
     - English [V2.0.8200](https://www.dropbox.com/s/srhltka6ykhl8g8/LA%202.0.8200%20EN.zip?dl=1)
     - Spanish [V2.0.8200](https://www.dropbox.com/s/91eueg5s2a864c0/LA%202.0.8200%20ES.zip?dl=1)
     - English [V2.0.8155](https://www.dropbox.com/s/ks83r3hd227n7lh/LA%202.0.8155%20EN.zip?dl=1)
-    - English [V2.0.8154](https://www.dropbox.com/s/zyuyw1iwinl123n/LA%202.0.8154%20EN.zip?dl=1)
-    - Spanish [V2.0.8154](https://www.dropbox.com/s/98bir54aht38jkz/LA%202.0.8154%20ES.zip?dl=1)
     
 - Local Agent Pre-requisites
     - [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
