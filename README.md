@@ -26,6 +26,7 @@
     - [V1.0.0](https://www.dropbox.com/sh/r392inzpg4rm285/AABrihonblcKT6CE5eGxNNIFa?dl=1)
     
 - Stand Alone Terminal
+    - [V2.0.0251](https://www.dropbox.com/s/mj7vii69kqjxxpe/StandAlone%20%282.0.0251%29%20EVO.zip?dl=1)
     - [V2.0.0205](https://www.dropbox.com/s/bkwv9bz11xxthp7/StandAlone%20%282.0.0205%29%20EVO.zip?dl=1)
     - [V2.0.0202](https://www.dropbox.com/s/22cr5ph7qbnp21g/StandAlone%20%282.0.0202%29%20EVO.zip?dl=1)
     - [V2.0.0201](https://www.dropbox.com/s/1qkfybuycnai90f/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
