@@ -4,6 +4,9 @@
 
 
 - Local Agent
+    - V2.0.8500
+        - [English](https://www.dropbox.com/s/gywmgrss681rbn0/LA%202.0.8400.zip?dl=1)
+        - [Spanish](https://www.dropbox.com/s/gywmgrss681rbn0/LA%202.0.8400.zip?dl=1)
     - English [V2.0.8400](https://www.dropbox.com/s/gywmgrss681rbn0/LA%202.0.8400.zip?dl=1)
     - Spanish [V2.0.8400](https://www.dropbox.com/s/96ww20zvwuxbjxo/LA%202.0.8400%20ES.zip?dl=1)
     - English [V2.0.8350](https://www.dropbox.com/s/xt6lum5mf014ybv/LA%202.0.8350%20EN.zip?dl=1)
