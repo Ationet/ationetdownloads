@@ -37,3 +37,10 @@
         
 - Stand Alone Terminal (Verifone V240m)
     - [V3.1.3 (BETA)](https://www.dropbox.com/s/lhkuqmseqerukpu/StandAlone%20V240m%20v3.1.3.tgz?dl=1)
+    
+- Verifone V240m Pre-requisites
+    - [Operative System](https://www.dropbox.com/sh/7qz3j4nnerg773r/AADlaKfvr3HzkaEi8PYyIbGQa?dl=1)
+    - [Library](https://www.dropbox.com/sh/ttcv4itijp2hlg9/AADIwNXibQuKBraKDR2HQlmWa?dl=1)
+    - [Remove MAC](https://www.dropbox.com/sh/a3leql1pulx6c8b/AADB6MuhxmXy6dZagfpNJHmGa?dl=1)
+    - [Library Camera](https://www.dropbox.com/sh/mimvt82d61valjc/AADZ_-WdqrSwPszGCHvfzBesa?dl=1)
+    - [Mx Downloader](https://www.dropbox.com/s/5y2rojd9hfeaq07/MxDownloader_2.9.0_Setup.exe?dl=1)
