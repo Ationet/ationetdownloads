@@ -10,14 +10,6 @@
     - Spanish [V2.0.8350](https://www.dropbox.com/s/1wc84xzxmgusbgf/LA%202.0.8350%20ES.zip?dl=1)
     - English [V2.0.8305](https://www.dropbox.com/s/tdtfuyh6c7mtvcq/LA%202.0.8305%20EN.zip?dl=1)
     - Spanish [V2.0.8305](https://www.dropbox.com/s/a7jx29enurwx7aa/LA%202.0.8305%20ES.zip?dl=1)
-    - English [V2.0.8303](https://www.dropbox.com/s/gv2qlezp7j8j7iy/LA%202.0.8303%20EN.zip?dl=1)
-    - Spanish [V2.0.8303](https://www.dropbox.com/s/sde4smobqd9m0ft/LA%202.0.8303%20ES.zip?dl=1)
-    - English [V2.0.8300](https://www.dropbox.com/s/79ptf03uqxa9vil/LA%202.0.8300%20EN.zip?dl=1)
-    - Spanish [V2.0.8300](https://www.dropbox.com/s/njxslj9augqaxw5/LA%202.0.8300%20ES.zip?dl=1)
-    - English [V2.0.8250](https://www.dropbox.com/s/08o5kgo27mxfq7k/LA%20v2.0.8250%20EN.zip?dl=1)
-    - English [V2.0.8200](https://www.dropbox.com/s/srhltka6ykhl8g8/LA%202.0.8200%20EN.zip?dl=1)
-    - Spanish [V2.0.8200](https://www.dropbox.com/s/91eueg5s2a864c0/LA%202.0.8200%20ES.zip?dl=1)
-    - English [V2.0.8155](https://www.dropbox.com/s/ks83r3hd227n7lh/LA%202.0.8155%20EN.zip?dl=1)
     
 - Local Agent Pre-requisites
     - [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
@@ -36,7 +28,7 @@
     - [V2.0.0201](https://www.dropbox.com/s/1qkfybuycnai90f/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
         
 - Stand Alone Terminal (Verifone V240m)
-    - [V3.2.0 (BETA)](https://www.dropbox.com/s/8jfkhy6mupvdzs1/StandAlone%20V240m%20v3.2.0.tgz?dl=1)
+    - [V3.3.0 (BETA)](https://www.dropbox.com/s/3ypj8kmkl0thcjg/StandAlone%20V240m%20v3.3.0.tgz?dl=1)
     
 - Verifone V240m Pre-requisites
     - [Operative System](https://www.dropbox.com/s/1xf4rip3wj0i3j4/dl.vos2-prod-Engage-release-31341300.tgz?dl=1)
