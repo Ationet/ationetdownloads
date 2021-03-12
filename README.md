@@ -4,15 +4,19 @@
 
 ## Local Agent
 
+### Latest Version
 - V2.0.8400
   - [English](https://www.dropbox.com/s/gywmgrss681rbn0/LA%202.0.8400.zip?dl=1)
   - [Spanish](https://www.dropbox.com/s/96ww20zvwuxbjxo/LA%202.0.8400%20ES.zip?dl=1)
+
+### Older Versions
 - V2.0.8350 
   - [English](https://www.dropbox.com/s/xt6lum5mf014ybv/LA%202.0.8350%20EN.zip?dl=1)
   - [Spanish](https://www.dropbox.com/s/1wc84xzxmgusbgf/LA%202.0.8350%20ES.zip?dl=1)
 - V2.0.8305
   - [English](https://www.dropbox.com/s/tdtfuyh6c7mtvcq/LA%202.0.8305%20EN.zip?dl=1)
   - [Spanish](https://www.dropbox.com/s/a7jx29enurwx7aa/LA%202.0.8305%20ES.zip?dl=1)
+    
     
 ## Local Agent Pre-requisites
  - [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
@@ -21,11 +25,17 @@
 - [WindowsInstaller3_1](https://www.dropbox.com/sh/tux9q81jdiyclh7/AAAerioCPLA_ujYoV-2G7UAEa?dl=1)
 - [WindowsInstaller4_5](https://www.dropbox.com/sh/mgvabdkqkqs937u/AABqq6mURy_cOPpOuaxljPh4a?dl=1)
     
+    
 ## Inventory Client
 - [V1.0.0](https://www.dropbox.com/sh/r392inzpg4rm285/AABrihonblcKT6CE5eGxNNIFa?dl=1)
     
+    
 ## Stand Alone Terminal (Verifone Vx520)
+
+### Latest Version
 - [V2.0.0251](https://www.dropbox.com/s/mj7vii69kqjxxpe/StandAlone%20%282.0.0251%29%20EVO.zip?dl=1)
+
+### Older Versions
 - [V2.0.0205](https://www.dropbox.com/s/bkwv9bz11xxthp7/StandAlone%20%282.0.0205%29%20EVO.zip?dl=1)
 - [V2.0.0202](https://www.dropbox.com/s/22cr5ph7qbnp21g/StandAlone%20%282.0.0202%29%20EVO.zip?dl=1)
 - [V2.0.0201](https://www.dropbox.com/s/1qkfybuycnai90f/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
