@@ -3,23 +3,12 @@
 # ATIONet Download Center
 
 ## Local Agent
-
-### Latest Version
 - V2.0.8400
   - [English](https://www.dropbox.com/s/gywmgrss681rbn0/LA%202.0.8400.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/96ww20zvwuxbjxo/LA%202.0.8400%20ES.zip?dl=1)
-
-### Older Versions
-- V2.0.8350 
-  - [English](https://www.dropbox.com/s/xt6lum5mf014ybv/LA%202.0.8350%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/1wc84xzxmgusbgf/LA%202.0.8350%20ES.zip?dl=1)
-- V2.0.8305
-  - [English](https://www.dropbox.com/s/tdtfuyh6c7mtvcq/LA%202.0.8305%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/a7jx29enurwx7aa/LA%202.0.8305%20ES.zip?dl=1)
-    
+  - [Spanish](https://www.dropbox.com/s/96ww20zvwuxbjxo/LA%202.0.8400%20ES.zip?dl=1)    
     
 ## Local Agent Pre-requisites
- - [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
+- [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
 - [DotNetFx461](https://www.dropbox.com/sh/x0qtgqt3buzhfr9/AABsyITBISSDy7ZafQZkdjala?dl=1)
 - [SqlExpress2008 Atio](https://www.dropbox.com/sh/lx26m2y2skcon6j/AAAKPrUJJMc5Wp-wwHuvIiaUa?dl=1)
 - [WindowsInstaller3_1](https://www.dropbox.com/sh/tux9q81jdiyclh7/AAAerioCPLA_ujYoV-2G7UAEa?dl=1)
@@ -31,14 +20,8 @@
     
     
 ## Stand Alone Terminal (Verifone Vx520)
-
-### Latest Version
 - [V2.0.0251](https://www.dropbox.com/s/mj7vii69kqjxxpe/StandAlone%20%282.0.0251%29%20EVO.zip?dl=1)
 
-### Older Versions
-- [V2.0.0205](https://www.dropbox.com/s/bkwv9bz11xxthp7/StandAlone%20%282.0.0205%29%20EVO.zip?dl=1)
-- [V2.0.0202](https://www.dropbox.com/s/22cr5ph7qbnp21g/StandAlone%20%282.0.0202%29%20EVO.zip?dl=1)
-- [V2.0.0201](https://www.dropbox.com/s/1qkfybuycnai90f/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
         
 ## Stand Alone Terminal (Verifone V240m)
 - [V3.4.1](https://www.dropbox.com/s/wqb4jx61ocwvuv3/StandAlone%20V240m%20v3.4.1.tgz?dl=1)
@@ -49,3 +32,8 @@
 - [Remove MAC](https://www.dropbox.com/s/hivtgm4qey04jsh/dl.mac-remove-3.78.1-prod.tgz?dl=1)
 - [Library Camera](https://www.dropbox.com/s/n3sox0ehgc2ltzo/dl.libhoneywell-0.3-2-prod.tar?dl=1)
 - [Mx Downloader](https://www.dropbox.com/s/5y2rojd9hfeaq07/MxDownloader_2.9.0_Setup.exe?dl=1)
+
+<br />
+<br />
+
+You can find our older versions to download [here](https://github.com/Ationet/ationetdownloads/blob/master/Older%20Version.md). Nevertheless, we strongly recommend to not use older versions.
