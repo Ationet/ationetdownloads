@@ -36,4 +36,4 @@
 <br />
 <br />
 
-You can find our older versions to download [here](https://github.com/Ationet/ationetdownloads/blob/master/Older%20Version.md). Nevertheless, we strongly recommend to not use older versions.
+You can find our older versions to download [here](https://github.com/Ationet/ationetdownloads/blob/master/Older%20Version.md). Nevertheless, we strongly recommend not to use older versions.
