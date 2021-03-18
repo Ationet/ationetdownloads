@@ -14,3 +14,8 @@
 - [V2.0.0205](https://www.dropbox.com/s/bkwv9bz11xxthp7/StandAlone%20%282.0.0205%29%20EVO.zip?dl=1)
 - [V2.0.0202](https://www.dropbox.com/s/22cr5ph7qbnp21g/StandAlone%20%282.0.0202%29%20EVO.zip?dl=1)
 - [V2.0.0201](https://www.dropbox.com/s/1qkfybuycnai90f/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
+
+
+## Stand Alone Terminal (Verifone V240m)
+- [V3.3.0](https://www.dropbox.com/s/3ypj8kmkl0thcjg/StandAlone%20V240m%20v3.3.0.tgz?dl=1)
+- [V3.4.1](https://www.dropbox.com/s/wqb4jx61ocwvuv3/StandAlone%20V240m%20v3.4.1.tgz?dl=1)
