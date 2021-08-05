@@ -3,9 +3,9 @@
 # ATIONet Download Center
 
 ## Local Agent
-- V2.0.8500
-  - [English](https://www.dropbox.com/s/nac6etm3snyw467/LA%202.0.8500%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/jclkgnhdwfdhn74/LA%202.0.8500%20ES.zip?dl=1)    
+- V2.0.8551
+  - [English](https://www.dropbox.com/s/lz45v2dy2svslsz/LA%202.0.8551%20EN.zip?dl=1)
+  - [Spanish](https://www.dropbox.com/s/lsj7m1ey86e0uyp/LA%202.0.8551%20ES.zip?dl=1)    
     
 ## Local Agent Pre-requisites
 - [DotNetFx45](https://www.dropbox.com/sh/0tn0ojt7dxu663g/AABg0uUOmAGjfTRNxNjnn8-ra?dl=1)
