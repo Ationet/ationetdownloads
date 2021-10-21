@@ -24,3 +24,4 @@
 - [V3.4.1](https://www.dropbox.com/s/wqb4jx61ocwvuv3/StandAlone%20V240m%20v3.4.1.tgz?dl=1)
 - [V3.5.0](https://www.dropbox.com/s/8smzvivygrblt2q/StandAlone%20V240m%20v3.5.0.tgz?dl=1)
 - [V3.6.2](https://www.dropbox.com/s/ek1w9z1gymxd2ta/StandAlone%20V240m%20v3.6.2.tgz?dl=1)
+- [V3.6.3](https://www.dropbox.com/s/y7tnwq420z4v2hl/StandAlone%20V240m%20v3.6.3.tgz?dl=1)
