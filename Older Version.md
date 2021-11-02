@@ -25,3 +25,10 @@
 - [V3.5.0](https://www.dropbox.com/s/8smzvivygrblt2q/StandAlone%20V240m%20v3.5.0.tgz?dl=1)
 - [V3.6.2](https://www.dropbox.com/s/ek1w9z1gymxd2ta/StandAlone%20V240m%20v3.6.2.tgz?dl=1)
 - [V3.6.3](https://www.dropbox.com/s/y7tnwq420z4v2hl/StandAlone%20V240m%20v3.6.3.tgz?dl=1)
+- [V3.6.5](https://www.dropbox.com/s/ll8ctrl2897ouzy/StandAlone%20V240m%20v3.6.5.tgz?dl=1)
+
+## Verifone V240m Pre-requisites
+- [Operative System v4.7.9](https://www.dropbox.com/s/1xf4rip3wj0i3j4/dl.vos2-prod-Engage-release-31341300.tgz?dl=1)
+- [Library (ADK) v4.7.9](https://www.dropbox.com/s/ltq34lxojuyya67/dl.adk-4.7.9-1009-vos2-engage-prod.tgz?dl=1)
+- [Remove MAC v4.7.9](https://www.dropbox.com/s/hivtgm4qey04jsh/dl.mac-remove-3.78.1-prod.tgz?dl=1)
+- [Library Camera v4.7.9](https://www.dropbox.com/s/n3sox0ehgc2ltzo/dl.libhoneywell-0.3-2-prod.tar?dl=1)
