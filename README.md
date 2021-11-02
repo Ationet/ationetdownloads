@@ -24,14 +24,14 @@
 
         
 ## Stand Alone Terminal (Verifone V240m)
-- [V3.6.5](https://www.dropbox.com/s/ll8ctrl2897ouzy/StandAlone%20V240m%20v3.6.5.tgz?dl=1)
+- [V3.7.3](https://www.dropbox.com/s/1lo6a77v8q3kbyi/StandAlone%20V240m%20v3.7.3.tgz?dl=1)
     
     
 ## Verifone V240m Pre-requisites
-- [Operative System](https://www.dropbox.com/s/1xf4rip3wj0i3j4/dl.vos2-prod-Engage-release-31341300.tgz?dl=1)
-- [Library (ADK)](https://www.dropbox.com/s/ltq34lxojuyya67/dl.adk-4.7.9-1009-vos2-engage-prod.tgz?dl=1)
-- [Remove MAC](https://www.dropbox.com/s/hivtgm4qey04jsh/dl.mac-remove-3.78.1-prod.tgz?dl=1)
-- [Library Camera](https://www.dropbox.com/s/n3sox0ehgc2ltzo/dl.libhoneywell-0.3-2-prod.tar?dl=1)
+- [Operative System v4.7.16](https://www.dropbox.com/s/3f1ap2rmvdnwdsf/dl.vos2-prod-Engage-release-31342300.tgz?dl=1)
+- [Library (ADK) v4.7.16](https://www.dropbox.com/s/0bqd5zdvwtaghc9/dl.adk-4.7.16-1260-vos2-engage-prod.tgz?dl=1)
+- [Remove MAC v4.7.16](https://www.dropbox.com/s/5741c36lkrezuwj/dl.mac-remove-3.80.11-prod.tgz?dl=1)
+- [Library Camera v4.7.16](https://www.dropbox.com/s/1zz5y4wgsclwrpi/dl.libhoneywell-0.3-4-prod.tar?dl=1)
 - [Mx Downloader](https://www.dropbox.com/s/5y2rojd9hfeaq07/MxDownloader_2.9.0_Setup.exe?dl=1)
 
 <br />
