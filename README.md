@@ -24,7 +24,7 @@
 
         
 ## Stand Alone Terminal (Verifone V240m)
-- [V3.7.9](https://www.dropbox.com/s/luxrel5qu30kckb/StandAlone%20V240m%20v3.7.9.tgz?dl=1)
+- [V3.7.10](https://www.dropbox.com/s/en8pk44h37yhql8/StandAlone%20V240m%20v3.7.10.tgz?dl=1)
     
     
 ## Verifone V240m Pre-requisites
