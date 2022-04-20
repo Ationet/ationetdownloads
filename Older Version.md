@@ -2,6 +2,9 @@
 # ATIONet Download Center - Older Versions
 
 ## Local Agent
+- V2.0.8759
+  - [English](https://www.dropbox.com/s/5ator8nbuwrzios/LA%20v2.0.8759%20EN.zip?dl=1)
+  - [Spanish](https://www.dropbox.com/s/hnfqv5677c4ai3b/LA%20v2.0.8759%20ES.zip?dl=1) 
 - V2.0.8755
   - [English](https://www.dropbox.com/s/65wkqik8x4j38fw/LA%20v2.0.8755%20EN.zip?dl=1)
   - [Spanish](https://www.dropbox.com/s/2fvxiz8wbfc4jys/LA%20v2.0.8755%20ES.zip?dl=1)
