@@ -3,7 +3,7 @@
 # ATIONet Download Center
 
 ## Local Agent
-- V2.0.5900
+- V2.0.8900
   - [English](https://www.dropbox.com/s/lvjecgimdzjraqv/LA%202.0.8900%20EN.zip?dl=1)  
     
 ## Local Agent Pre-requisites
