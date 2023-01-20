@@ -2,33 +2,10 @@
 # ATIONet Download Center - Older Versions
 
 ## Local Agent
+- [V2.0.8904](https://www.dropbox.com/s/7c1eigd18fxkj77/LA%202.0.8904.zip?dl=1)
 - [V2.0.8902](https://www.dropbox.com/s/7ui5esu7qxj4ao2/LA%202.0.8902.zip?dl=1)
 - [V2.0.8901](https://www.dropbox.com/s/99w093kugpcf2px/LA%202.0.8901%20EN.zip?dl=1)
 - [V2.0.8900](https://www.dropbox.com/s/lvjecgimdzjraqv/LA%202.0.8900%20EN.zip?dl=1)  
-- V2.0.8850
-  - [English](https://www.dropbox.com/s/kpaq1x7f5aqicl8/LA%202.0.8850%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/y6pthi0ov3av7ab/LA%202.0.8850%20ES.zip?dl=1) 
-- V2.0.8759
-  - [English](https://www.dropbox.com/s/5ator8nbuwrzios/LA%20v2.0.8759%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/hnfqv5677c4ai3b/LA%20v2.0.8759%20ES.zip?dl=1) 
-- V2.0.8755
-  - [English](https://www.dropbox.com/s/65wkqik8x4j38fw/LA%20v2.0.8755%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/2fvxiz8wbfc4jys/LA%20v2.0.8755%20ES.zip?dl=1)
-- V2.0.8750
-  - [English](https://www.dropbox.com/s/0pci0dersqhyu7u/LA%20v2.0.8750%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/lfm5mal3lrfj9kg/LA%20v2.0.8750%20ES.zip?dl=1)  
-- V2.0.8600
-  - [English](https://www.dropbox.com/s/2sx54jvx52alff2/LA%202.0.8600%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/r7dyc8e5kf762w4/LA%202.0.8600%20ES.zip?dl=1)
-- V2.0.8552
-  - [English](https://www.dropbox.com/s/gvtjjkl66q0f41w/LA%202.0.8552%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/yf52fidlu1man0x/LA%202.0.8552%20ES.zip?dl=1)
-- V2.0.8500
-  - [English](https://www.dropbox.com/s/gtu4pa5mq28wlj2/LA%202.0.8500%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/jivvs2wn45gb7yg/LA%202.0.8500%20ES.zip?dl=1)
-- V2.0.8400
-  - [English](https://www.dropbox.com/s/in6id4eeyikbt6f/LA%202.0.8400%20EN.zip?dl=1)
-  - [Spanish](https://www.dropbox.com/s/n4d12vj6e9f1qrf/LA%202.0.8400%20ES.zip?dl=1)
 
 
 ## Stand Alone Terminal (Verifone Vx520)
