@@ -14,7 +14,7 @@
     
     
 ## Inventory Client
-- [V1.0.0](https://www.dropbox.com/sh/r392inzpg4rm285/AABrihonblcKT6CE5eGxNNIFa?dl=1)
+- [V1.0.0](https://www.dropbox.com/s/mqgwmbfq8rf5p4s/ATIONet%20Inventory%20Client%201.0.0.zip?dl=0)
     
     
 ## Stand Alone Terminal (Verifone Vx520)
