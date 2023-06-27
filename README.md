@@ -3,7 +3,7 @@
 # ATIONET Download Center
 
 ## Local Agent
-- [V2.0.9006](https://www.dropbox.com/s/2ulqynl0py7aysv/LA%20V2.0.9006.zip?dl=1)
+- [V2.0.9010](https://www.dropbox.com/s/qd8dc7eyktat9rd/LA%20V2.0.9010.zip?dl=1)
 
 ## Local Agent Pre-requisites
 - [DotNetFx45](https://www.dropbox.com/sh/7ce3wik49m4sl2w/AACJ9MW-xOD7TKfOIfbz3EYfa?dl=1)
