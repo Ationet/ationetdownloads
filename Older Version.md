@@ -15,18 +15,11 @@
 
 
 ## Stand Alone Terminal (Verifone V240m)
-- [V3.3.0](https://www.dropbox.com/s/zye8va1164lvhsb/StandAlone%20V240m%20v3.3.0.tgz?dl=1)
-- [V3.4.1](https://www.dropbox.com/s/8eeqzgtvpusrdl0/StandAlone%20V240m%20v3.4.1.tgz?dl=1)
-- [V3.5.0](https://www.dropbox.com/s/dbrqhyv2np8ozkp/StandAlone%20V240m%20v3.5.0.tgz?dl=1)
-- [V3.6.2](https://www.dropbox.com/s/4v03zvs2n56iwv2/StandAlone%20V240m%20v3.6.2.tgz?dl=1)
-- [V3.6.3](https://www.dropbox.com/s/dsjbxp59dwe8ki8/StandAlone%20V240m%20v3.6.3.tgz?dl=1)
-- [V3.6.5](https://www.dropbox.com/s/aaw15heueakvt03/StandAlone%20V240m%20v3.6.5.tgz?dl=1)
-- [V3.7.3](https://www.dropbox.com/s/tz2bmkh0fzv8jui/StandAlone%20V240m%20v3.7.3.tgz?dl=1)
-- [V3.7.9](https://www.dropbox.com/s/luxrel5qu30kckb/StandAlone%20V240m%20v3.7.9.tgz?dl=1)
 - [V3.7.10](https://www.dropbox.com/s/en8pk44h37yhql8/StandAlone%20V240m%20v3.7.10.tgz?dl=1)
 - [V3.7.11](https://www.dropbox.com/s/j67bdny6qw9po60/StandAlone%20V240m%20v3.7.11.tgz?dl=1)
 - [V3.7.13](https://www.dropbox.com/s/441fldin96qlrp8/StandAlone%20V240m%20v3.7.13.tgz?dl=1)
 - [V3.7.17](https://www.dropbox.com/s/f9ewbsbo6ik6poy/StandAlone%20V240m%20v3.7.17.tgz?dl=1)
+- [V3.7.19](https://www.dropbox.com/s/4bx07sqx65oisxv/StandAlone%20V240m%20v3.7.19.tgz?dl=1)
 
 ## Verifone V240m Pre-requisites
 - [Operative System v4.7.9](https://www.dropbox.com/s/dg49x5b9g9z7g48/dl.vos2-prod-Engage-release-31341300.tgz?dl=1)
