@@ -2,11 +2,11 @@
 # ATIONet Download Center - Older Versions
 
 ## Local Agent
-- [V2.0.8900](https://www.dropbox.com/s/lvjecgimdzjraqv/LA%202.0.8900%20EN.zip?dl=1)
-- [V2.0.9002](https://www.dropbox.com/s/5wiceabt5ng3u3h/LA%20V2.0.9002.zip?dl=1)
 - [V2.0.9003](https://www.dropbox.com/s/rwjswgxk5jzldj2/LA%20V2.0.9003.zip?dl=1)
 - [V2.0.9006](https://www.dropbox.com/s/2ulqynl0py7aysv/LA%20V2.0.9006.zip?dl=1)
 - [V2.0.9010](https://www.dropbox.com/s/qd8dc7eyktat9rd/LA%20V2.0.9010.zip?dl=1)
+- [V2.0.9017](https://www.dropbox.com/scl/fi/4ymnbfhuuykgx1snaxs36/LA-V2.0.9017.zip?rlkey=d4bsg70k8u60m9tm762jb0ly0&dl=1)
+
 
 
 ## Stand Alone Terminal (Verifone Vx520)
