@@ -6,7 +6,7 @@
 - [V2.0.9006](https://www.dropbox.com/s/2ulqynl0py7aysv/LA%20V2.0.9006.zip?dl=1)
 - [V2.0.9010](https://www.dropbox.com/s/qd8dc7eyktat9rd/LA%20V2.0.9010.zip?dl=1)
 - [V2.0.9017](https://www.dropbox.com/scl/fi/4ymnbfhuuykgx1snaxs36/LA-V2.0.9017.zip?rlkey=d4bsg70k8u60m9tm762jb0ly0&dl=1)
-
+- [V2.0.9021](https://www.dropbox.com/scl/fi/51duz2l741nvun9d9lzbj/LA-V2.0.9021.zip?rlkey=l2v6orw03xa9w7wssmoa9fpwt&dl=1)
 
 
 ## Stand Alone Terminal (Verifone Vx520)
