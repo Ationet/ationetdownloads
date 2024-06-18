@@ -11,7 +11,7 @@
 - [WindowsInstaller3_1](https://www.dropbox.com/sh/3ougehv562y10lk/AABW_ut6GanPPQ_Vs4uz2tyea?dl=1)
 - [WindowsInstaller4_5](https://www.dropbox.com/sh/nb0l663jln6jzaf/AAA5bZ-krsQua-qj829Itfw9a?dl=1)
 
-## Local Agent (SQL 2022)
+## Local Agent (SQL 2008)
 - [V2.0.9027](https://www.dropbox.com/scl/fi/f1hu85jm552ngztg5xknw/LA-V2.0.9027.zip?rlkey=vivz2n7hljclm4rj9p1xoy54m&dl=1)
 
 ## Local Agent (SQL 2008) Pre-requisites
