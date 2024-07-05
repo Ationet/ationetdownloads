@@ -1,12 +1,17 @@
 ![ationetlogo](https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png) 
 # ATIONet Download Center - Older Versions
 
-## Local Agent
+## Local Agent (SQL 2022)
+- [V2.5.0001](https://www.dropbox.com/scl/fi/2d1f21c51mvzkhp50cky8/LA-V2.5.0001.zip?rlkey=jf3imx394c5j25wm964mwcs50&dl=1)
+
+
+## Local Agent (SQL 2008)
 - [V2.0.9017](https://www.dropbox.com/scl/fi/4ymnbfhuuykgx1snaxs36/LA-V2.0.9017.zip?rlkey=d4bsg70k8u60m9tm762jb0ly0&dl=1)
 - [V2.0.9021](https://www.dropbox.com/scl/fi/51duz2l741nvun9d9lzbj/LA-V2.0.9021.zip?rlkey=l2v6orw03xa9w7wssmoa9fpwt&dl=1)
 - [V2.0.9022](https://www.dropbox.com/scl/fi/alt8b0296nbt79xac6nro/LA-V2.0.9022.zip?rlkey=bbe7lg86r50rfof63vl61nukg&dl=1)
 - [V2.0.9025](https://www.dropbox.com/scl/fi/qc0fx51gmx8yi1gugn85h/LA-V2.0.9025.zip?rlkey=fjnj865w6h27x24k45wc47sbt&dl=1)
 - [V2.0.9026](https://www.dropbox.com/scl/fi/tt3urgrbu2y8jn5arkqtq/LA-V2.0.9026.zip?rlkey=usrq0jsid8gpumrcd77du0cbn&dl=1)
+- [V2.0.9027](https://www.dropbox.com/scl/fi/f1hu85jm552ngztg5xknw/LA-V2.0.9027.zip?rlkey=vivz2n7hljclm4rj9p1xoy54m&dl=1)
 
 
 ## Stand Alone Terminal (Verifone Vx520)
