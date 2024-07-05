@@ -6,7 +6,7 @@
 # ATIONET Download Center
 
 ## Local Agent (SQL 2022)
-- [V2.5.0001](https://www.dropbox.com/scl/fi/2d1f21c51mvzkhp50cky8/LA-V2.5.0001.zip?rlkey=jf3imx394c5j25wm964mwcs50&dl=1)
+- [V2.5.0101](https://www.dropbox.com/scl/fi/z4rwqrz629nisyva690yg/LA-V2.5.0101.zip?rlkey=1rjnthb7lcje90005h8gos2cn&dl=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [DOTNetFx48](https://www.dropbox.com/scl/fo/xz152qagna2ggeexgh5fx/AE9P8xSaBGyfw5HjYIxxJZk?rlkey=qaua545f5tb36nx3kpo32g3g8&dl=1)
@@ -15,7 +15,7 @@
 - [WindowsInstaller4_5](https://www.dropbox.com/sh/nb0l663jln6jzaf/AAA5bZ-krsQua-qj829Itfw9a?dl=1)
 
 ## Local Agent (SQL 2008)
-- [V2.0.9027](https://www.dropbox.com/scl/fi/f1hu85jm552ngztg5xknw/LA-V2.0.9027.zip?rlkey=vivz2n7hljclm4rj9p1xoy54m&dl=1)
+- [V2.0.9200](https://www.dropbox.com/scl/fi/6noz49jyk736h3hzt3u0n/LA-V2.0.9200.zip?rlkey=gsj7xxhtid0n3aisq15g2dnx1&dl=1)
 
 ## Local Agent (SQL 2008) Pre-requisites
 - [DotNetFx45](https://www.dropbox.com/sh/7ce3wik49m4sl2w/AACJ9MW-xOD7TKfOIfbz3EYfa?dl=1)
