@@ -38,6 +38,8 @@
 - [V3.7.20](https://www.dropbox.com/scl/fi/jcmutu8c8t3hiaeg61bjt/dl.StandAlone-vos2-rel-signed.tgz?rlkey=6unxujbrif912gev0y48ziz2h&dl=1)
 - [V3.7.21](https://www.dropbox.com/scl/fi/umpl4ntpu5gqm9hh5v9hf/StandAlone-V240m-v3.7.21.tgz?rlkey=9el8g384a1edu3snre77m8z2k&dl=1)
 - [V3.8.1](https://www.dropbox.com/scl/fi/4a1fbjlpsnnxta8xq4ere/StandAlone-V240m-v3.8.1.tgz?rlkey=uuh279ljvv8hf5rjqho9b3bas&dl=1)
+- [V3.8.2](https://www.dropbox.com/scl/fi/de29jq1qd9nj8p22d5s7m/StandAlone-V240m-v3.8.2.tgz?rlkey=ttm2rqoc18qvwu8hekw7pllf7&dl=1)
+
 
 ## Verifone V240m Pre-requisites
 - [Operative System v4.7.9](https://www.dropbox.com/s/dg49x5b9g9z7g48/dl.vos2-prod-Engage-release-31341300.tgz?dl=1)
