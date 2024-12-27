@@ -35,7 +35,7 @@
         
 ## Stand Alone Terminal (Verifone V240m)
 #### Step by step installation guide [HERE](https://github.com/Ationet/ationetdocs/blob/master/README_TechnicalDocumentation.md#v240m-standalone-terminal-installation-guide)
-- [V3.8.2](https://www.dropbox.com/scl/fi/de29jq1qd9nj8p22d5s7m/StandAlone-V240m-v3.8.2.tgz?rlkey=ttm2rqoc18qvwu8hekw7pllf7&dl=1)
+- [V3.8.6](https://www.dropbox.com/scl/fi/r522bbl8ra09ca8o99e0s/StandAlone-V240mv3.8.6.tgz?rlkey=i73hyorq1yvdz69fvyns5d49z&dl=0)
  
     
 ## Verifone V240m Pre-requisites
