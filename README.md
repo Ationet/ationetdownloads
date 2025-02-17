@@ -49,7 +49,9 @@
 
 - [DOTNET Hosting Bundle (PRE-REQUISITE)](https://www.dropbox.com/scl/fi/vljvuqzghngswnvvdaw58/dotnet-hosting-6.0.36-win.exe?rlkey=ka92j5hbi45x69gpp74rnt2me&st=kzu5mo18&dl=0)
 - [v1.3.0.1 Portable](https://www.dropbox.com/scl/fi/fm7j1drs9aochwiz0otrk/Atio.DongleManatecPortable_1.3.0.1.zip?rlkey=ocizasshjf45wwhypy9qzqn98&st=06st2l0l&dl=0)
-- [v1.3.0.1 MSI Installer](https://www.dropbox.com/scl/fi/oxhr6w8exs0dolatlci1j/AtionetDongleManatecSetup_1.3.0.1.zip?rlkey=88odlbey6h21ute0dk1eghtkx&st=zrzq915b&dl=0)
+ -- [Instalation Guide](https://www.dropbox.com/scl/fi/ukjpw4v8wr2b3u28rrqfy/ATIONET-Dongle-Manatec-Portable-Installation-Guide.pdf?rlkey=ia19vjsykrlyp7ljb01rzd6xn&st=4f6umyv6&dl=0)
+- [v1.3.0.1 MSI Installer](https://www.dropbox.com/scl/fi/oxhr6w8exs0dolatlci1j/AtionetDongleManatecSetup_1.3.0.1.zip?rlkey=88odlbey6h21ute0dk1eghtkx&st=zrzq915b&dl=0)  -- [Instalation Guide](https://www.dropbox.com/scl/fi/5w5mcid7m3qk1wj9nx7ep/ATIONET-Dongle-Manatec-MSI-Installation-Guide.pdf?rlkey=5jjj4skfgwo66bta9n4ig5c14&st=x9cy26nf&dl=0)
+- [Configuration Guide](https://www.dropbox.com/scl/fi/51v2wfkdwzea1lbo9lwbp/ATIONET-Dongle-Manatec-Configuration-Guide.pdf?rlkey=3ycb6a8zuekolk1gv71dkvx37&st=u55turqr&dl=0)
 
 <br />
 <br />
