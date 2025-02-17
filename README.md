@@ -45,6 +45,12 @@
 - [Library Camera v4.7.16](https://www.dropbox.com/s/o835ogktq4zvyem/dl.libhoneywell-0.3-4-prod.tar?dl=1)
 - [Mx Downloader](https://www.dropbox.com/s/r15jo6iqubtkbon/MxDownloader_2.9.0_Setup.exe?dl=1)
 
+- ## ATIONET Dongle Manatec
+
+- [DOTNET Hosting Bundle (PRE-REQUISITE)](https://www.dropbox.com/scl/fi/vljvuqzghngswnvvdaw58/dotnet-hosting-6.0.36-win.exe?rlkey=ka92j5hbi45x69gpp74rnt2me&st=kzu5mo18&dl=0)
+- [v1.3.0.1 Portable](https://www.dropbox.com/scl/fi/fm7j1drs9aochwiz0otrk/Atio.DongleManatecPortable_1.3.0.1.zip?rlkey=ocizasshjf45wwhypy9qzqn98&st=06st2l0l&dl=0)
+- [v1.3.0.1 MSI Installer](https://www.dropbox.com/scl/fi/oxhr6w8exs0dolatlci1j/AtionetDongleManatecSetup_1.3.0.1.zip?rlkey=88odlbey6h21ute0dk1eghtkx&st=zrzq915b&dl=0)
+
 <br />
 <br />
 
