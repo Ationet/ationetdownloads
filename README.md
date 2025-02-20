@@ -26,16 +26,16 @@
     
     
 ## Inventory Client
-- [V1.0.0](https://www.dropbox.com/s/mqgwmbfq8rf5p4s/ATIONet%20Inventory%20Client%201.0.0.zip?dl=1)
+- [V1.0.0](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Inventory%20Client/ATIONet%20Inventory%20Client%201.0.0.zip)
     
     
 ## Stand Alone Terminal (Verifone Vx520)
-- [V2.0.0251](https://www.dropbox.com/s/vc00m1w955dafe1/StandAlone%20%282.0.0251%29%20EVO.zip?dl=1)
+- [V2.0.0251](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Stand%20Alone%20Terminal%20(Verifone%20Vx520)/StandAlone%20(2.0.0251).zip)
 
         
 ## Stand Alone Terminal (Verifone V240m)
 #### Step by step installation guide [HERE](https://github.com/Ationet/ationetdocs/blob/master/README_TechnicalDocumentation.md#v240m-standalone-terminal-installation-guide)
-- [V3.8.6](https://www.dropbox.com/scl/fi/r522bbl8ra09ca8o99e0s/StandAlone-V240mv3.8.6.tgz?rlkey=i73hyorq1yvdz69fvyns5d49z&dl=1)
+- [V3.8.6](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Stand%20Alone%20Terminal%20(Verifone%20V240m)/StandAlone%20V240mv3.8.6.tgz)
  
     
 ## Verifone V240m Pre-requisites
