@@ -48,10 +48,10 @@
 ## ATIONET R-EVOPOS
 
 #### NewLand Terminal
-- [v2.0.7.31048](https://www.dropbox.com/scl/fo/0u52pmsgxiap7zhl132sq/AGvW77ftt2khOxUIgCr2vMQ?rlkey=mngq0fx4m7rajk9hi7tjn7dff&dl=1)
+- [v2.0.11.31335](https://www.dropbox.com/scl/fi/fldt4y790us5s1omkwxvi/revopos-compact_newland_v2.0.11.31335_vc29.apk?rlkey=27e7fm7bqnu9khvz77ah7ybih&dl=1)
 
 #### Urovo Terminal
-- [v2.0.7.31048](https://www.dropbox.com/scl/fo/v66hj104wxp0h39lb0in0/ACmPoq5GuxcZC-iuuIPUZcE?rlkey=0fat8ly1ztp6jzm6968dpuw5m&dl=1)
+- [v2.0.11.31335](https://www.dropbox.com/scl/fi/div7rrb00gnj28r8zggfx/revopos-compact_urovo_v2.0.11.31335_vc29.apk?rlkey=4ke54yd7qcv6rm80hh8409a2o&dl=1)
 
 ## ATIONET Dongle Manatec
 
