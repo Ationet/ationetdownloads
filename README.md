@@ -47,13 +47,13 @@
 
 ## ATIONET R-EVOPOS
 
-#### Verifone T650 Terminal
+#### Verifone T650p Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/uwx7pbqk2ne4izhtqhhv4/app-t650p-release.apk?rlkey=j76tyguhbuf6b7vi9htwo8m0w&st=y22983so&dl=1)
 
-#### NewLand Terminal
+#### NewLand N910 Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/8x6nd0jomo7n1z8tp3r6l/revopos-compact_newland_v2.0.11.31335_vc29_signed.apk?rlkey=jto73kt1gi7dmjgctnl9u4vo8&st=28gjf4ev&dl=1)
 
-#### Urovo Terminal
+#### Urovo i9000s Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/cj441fzgm99nytkptmdh1/revopos-compact_urovo_v2.0.11.31335_vc29_20250430123116_signed-1.apk?rlkey=1y7vx425x571u93k6v25ivjqm&st=sn3zsu0l&dl=1)
 
 #### Config File
