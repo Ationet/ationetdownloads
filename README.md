@@ -45,7 +45,7 @@
 - [Library Camera v4.7.16](https://www.dropbox.com/s/o835ogktq4zvyem/dl.libhoneywell-0.3-4-prod.tar?dl=1)
 - [Mx Downloader](https://www.dropbox.com/s/r15jo6iqubtkbon/MxDownloader_2.9.0_Setup.exe?dl=1)
 
-## ATIONET R-EVOPOS
+## ATIONET RevoPOS
 
 #### Verifone T650p Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/uwx7pbqk2ne4izhtqhhv4/app-t650p-release.apk?rlkey=j76tyguhbuf6b7vi9htwo8m0w&st=y22983so&dl=1)
