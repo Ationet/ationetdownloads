@@ -48,7 +48,7 @@
 ## ATIONET RevoPOS
 
 #### Verifone T650p Terminal
-- [v2.0.11.31335](https://www.dropbox.com/scl/fi/uwx7pbqk2ne4izhtqhhv4/app-t650p-release.apk?rlkey=j76tyguhbuf6b7vi9htwo8m0w&st=y22983so&dl=1)
+- [v2.0.11.31335](https://www.dropbox.com/scl/fi/iqmlgb705tf7tl1rsvdye/R-EVOPOS-v2.0.11.31335.zip?rlkey=nfzk1e23ozp2nzqeld3oulz3k&dl=1)
 
 #### NewLand N910 Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/8x6nd0jomo7n1z8tp3r6l/revopos-compact_newland_v2.0.11.31335_vc29_signed.apk?rlkey=jto73kt1gi7dmjgctnl9u4vo8&st=28gjf4ev&dl=1)
