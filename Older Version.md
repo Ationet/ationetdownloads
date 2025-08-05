@@ -33,6 +33,7 @@
 
 
 ## Stand Alone Terminal (Verifone V240m)
+- [v4.7.16](https://www.dropbox.com/s/atg659vb5rbzm7r/dl.vos2-prod-Engage-release-31342300.tgz?dl=1)
 - [V3.7.10](https://www.dropbox.com/s/en8pk44h37yhql8/StandAlone%20V240m%20v3.7.10.tgz?dl=1)
 - [V3.7.11](https://www.dropbox.com/s/j67bdny6qw9po60/StandAlone%20V240m%20v3.7.11.tgz?dl=1)
 - [V3.7.13](https://www.dropbox.com/s/441fldin96qlrp8/StandAlone%20V240m%20v3.7.13.tgz?dl=1)
