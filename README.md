@@ -35,11 +35,11 @@
         
 ## Stand Alone Terminal (Verifone V240m)
 #### Step by step installation guide [HERE](https://github.com/Ationet/ationetdocs/blob/master/README_TechnicalDocumentation.md#v240m-standalone-terminal-installation-guide)
-- [V3.8.6](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Stand%20Alone%20Terminal%20(Verifone%20V240m)/StandAlone%20V240mv3.8.6.tgz)
+- [V3.8.7](https://www.dropbox.com/scl/fi/3240e9yue7tzm030rwjjq/StandAlone-V240m-v3.8.7.tgz?rlkey=zqfazc26an9vdoyrk8a4rwpax&st=l2chkl1d&dl=1)
  
     
 ## Verifone V240m Pre-requisites
-- [Operative System v3.8.17](https://www.dropbox.com/scl/fi/3240e9yue7tzm030rwjjq/StandAlone-V240m-v3.8.7.tgz?rlkey=zqfazc26an9vdoyrk8a4rwpax&st=l2chkl1d&dl=1)
+- [Operative System v3.8.17](https://www.dropbox.com/scl/fi/hewd3oeqyqapo5ucft87r/dl.vos2-prod-Engage-release-31342300.tgz?rlkey=pxojua33xb7gd9gkmi9vzhoa0&dl=1)
 - [Library (ADK) v4.7.16](https://www.dropbox.com/s/ieeah7e3i5t193u/dl.adk-4.7.16-1260-vos2-engage-prod.tgz?dl=1)
 - [Remove MAC v4.7.16](https://www.dropbox.com/s/5prax0vxmb7b9u7/dl.mac-remove-3.80.11-prod.tgz?dl=1)
 - [Library Camera v4.7.16](https://www.dropbox.com/s/o835ogktq4zvyem/dl.libhoneywell-0.3-4-prod.tar?dl=1)
