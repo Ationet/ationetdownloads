@@ -43,6 +43,7 @@
 - [V3.7.21](https://www.dropbox.com/scl/fi/umpl4ntpu5gqm9hh5v9hf/StandAlone-V240m-v3.7.21.tgz?rlkey=9el8g384a1edu3snre77m8z2k&dl=1)
 - [V3.8.1](https://www.dropbox.com/scl/fi/4a1fbjlpsnnxta8xq4ere/StandAlone-V240m-v3.8.1.tgz?rlkey=uuh279ljvv8hf5rjqho9b3bas&dl=1)
 - [V3.8.2](https://www.dropbox.com/scl/fi/de29jq1qd9nj8p22d5s7m/StandAlone-V240m-v3.8.2.tgz?rlkey=ttm2rqoc18qvwu8hekw7pllf7&dl=1)
+- [V3.8.6](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Stand%20Alone%20Terminal%20(Verifone%20V240m)/StandAlone%20V240mv3.8.6.tgz)
 
 
 ## Verifone V240m Pre-requisites
