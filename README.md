@@ -9,6 +9,8 @@
 - [v2.6.0002](https://www.dropbox.com/scl/fi/9w5z5s9m86lbk6l8q75da/LA-v2.6.0002.zip?rlkey=1q353r3136aff3evaqldx5m4p&dl=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
+- [LAConfig](https://atioinc.sharepoint.com/:u:/s/ATIONETSupport/EUu_GvVaumVMgEUbKK-Egg0Bqz_Xvnc98Qc-l83whbRcHQ?e=ar8df5)
+- [Local Agent Updater](https://atioinc.sharepoint.com/:u:/s/ATIONETSupport/EfLCqdgx7yRPgHmc2LiJn9oBl8QxrKqm--8Uvlw0nTTb6w?e=fWYWBt)
 - [DOTNetFx48](https://www.dropbox.com/scl/fo/xz152qagna2ggeexgh5fx/AE9P8xSaBGyfw5HjYIxxJZk?rlkey=qaua545f5tb36nx3kpo32g3g8&dl=1)
 - [SqlExpress2022 Atio](https://www.dropbox.com/scl/fo/heosnows0vc84gz73ofy3/AFgIG07cHyTJXD23PWu3PFA?rlkey=qdurzvgyptte10pqtsls2qjt5&dl=1)
 - [WindowsInstaller3_1](https://www.dropbox.com/sh/3ougehv562y10lk/AABW_ut6GanPPQ_Vs4uz2tyea?dl=1)
