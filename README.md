@@ -6,7 +6,7 @@
 # ATIONET Download Center
 
 ## Local Agent (SQL 2022)
-- [v2.5.0301](https://www.dropbox.com/scl/fi/bec511kgxj270nbk0knl7/LA-v2.5.0301.zip?rlkey=xxmv1aobwvqgfyb1q0iix9tqp&dl=1)
+- [v2.6.0002](https://www.dropbox.com/scl/fi/9w5z5s9m86lbk6l8q75da/LA-v2.6.0002.zip?rlkey=1q353r3136aff3evaqldx5m4p&dl=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [DOTNetFx48](https://www.dropbox.com/scl/fo/xz152qagna2ggeexgh5fx/AE9P8xSaBGyfw5HjYIxxJZk?rlkey=qaua545f5tb36nx3kpo32g3g8&dl=1)
@@ -48,7 +48,7 @@
 ## ATIONET RevoPOS
 
 #### Verifone T650p Terminal
-- [v2.0.11.31335](https://www.dropbox.com/scl/fi/iqmlgb705tf7tl1rsvdye/R-EVOPOS-v2.0.11.31335.zip?rlkey=nfzk1e23ozp2nzqeld3oulz3k&dl=1)
+- [v2.0.22](https://www.dropbox.com/scl/fi/a5wq5dyjpwmd82lj44o96/app-t650p-releasePROD2.0.22.apk?rlkey=xafqsn04ue02c2oi0s0w5vz7o&dl=1)
 
 #### NewLand N910 Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/8x6nd0jomo7n1z8tp3r6l/revopos-compact_newland_v2.0.11.31335_vc29_signed.apk?rlkey=jto73kt1gi7dmjgctnl9u4vo8&st=28gjf4ev&dl=1)
