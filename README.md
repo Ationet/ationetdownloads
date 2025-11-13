@@ -6,7 +6,7 @@
 # ATIONET Download Center
 
 ## Local Agent (SQL 2022)
-- [v2.6.0002](https://www.dropbox.com/scl/fi/9w5z5s9m86lbk6l8q75da/LA-v2.6.0002.zip?rlkey=1q353r3136aff3evaqldx5m4p&dl=1)
+-[v2.6.0001](https://www.dropbox.com/scl/fi/xjnhme6ba79nrsv2pcfsf/LA-v2.6.0002.zip?rlkey=6ahvjellq5zpb7mqhffmo4fd5&e=1&dl=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [LAConfig](https://atioinc.sharepoint.com/:u:/s/ATIONETSupport/EUu_GvVaumVMgEUbKK-Egg0Bqz_Xvnc98Qc-l83whbRcHQ?e=ar8df5)
