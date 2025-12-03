@@ -6,11 +6,12 @@
 # ATIONET Download Center
 
 ## Local Agent (SQL 2022) ([How to install version v2.6.0000 onwards](https://github.com/Ationet/ationetdocs/blob/master/Local%20Agent%20Installation%20Guide-EN.md#installation-version-260000))
+- [v2.6.0002](https://www.dropbox.com/scl/fi/xjnhme6ba79nrsv2pcfsf/LA-v2.6.0002.zip?rlkey=6ahvjellq5zpb7mqhffmo4fd5&dl=0)
 - [v2.6.0001](https://www.dropbox.com/scl/fi/xjnhme6ba79nrsv2pcfsf/LA-v2.6.0002.zip?rlkey=6ahvjellq5zpb7mqhffmo4fd5&e=1&dl=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
-- [LAConfig](https://atioinc.sharepoint.com/:u:/s/ATIONETSupport/EUu_GvVaumVMgEUbKK-Egg0Bqz_Xvnc98Qc-l83whbRcHQ?e=ar8df5)
-- [Local Agent Updater](https://atioinc.sharepoint.com/:u:/s/ATIONETSupport/EfLCqdgx7yRPgHmc2LiJn9oBl8QxrKqm--8Uvlw0nTTb6w?e=fWYWBt)
+- [LAConfig](https://www.dropbox.com/scl/fo/rn564pzwlt0g5b07ibckk/ANg8BfR4IDY1-cpiLUlK5ZI?rlkey=6y0kdcd9f6mzze63sw1j24p6i&dl=0)
+- [Local Agent Updater](https://www.dropbox.com/scl/fo/lneo0mykno1y6mwi41jw0/AHey9OYq4VSt5tNRh9CLBpA?rlkey=ez6spvsgjpm0agcx0zxdj9spi&dl=0)
 - [DOTNetFx48](https://www.dropbox.com/scl/fo/xz152qagna2ggeexgh5fx/AE9P8xSaBGyfw5HjYIxxJZk?rlkey=qaua545f5tb36nx3kpo32g3g8&dl=1)
 - [SqlExpress2022 Atio](https://www.dropbox.com/scl/fo/heosnows0vc84gz73ofy3/AFgIG07cHyTJXD23PWu3PFA?rlkey=qdurzvgyptte10pqtsls2qjt5&dl=1)
 - [WindowsInstaller3_1](https://www.dropbox.com/sh/3ougehv562y10lk/AABW_ut6GanPPQ_Vs4uz2tyea?dl=1)
