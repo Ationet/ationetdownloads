@@ -2,6 +2,7 @@
 # ATIONet Download Center - Older Versions
 
 ## Local Agent (SQL 2022)
+- [v2.6.0001](https://www.dropbox.com/scl/fi/2f0u7163k531a7biw137n/LA-v2.6.0001.zip?rlkey=6nnwukn4qgw1deotoysw8gwkh&dl=1)
 - [v2.5.0301](https://www.dropbox.com/scl/fi/bec511kgxj270nbk0knl7/LA-v2.5.0301.zip?rlkey=xxmv1aobwvqgfyb1q0iix9tqp&dl=1)
 - [v2.5.0257](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Local%20Agent%20(SQL%202022)/LA%202.5.0257.zip)
 - [v2.5.0256](https://www.dropbox.com/scl/fi/pgn69x6c13fhksv0d4y6g/LA-v2.5.0256.zip?rlkey=5gofi0pwh52h990do7wxbs77z&dl=1)
