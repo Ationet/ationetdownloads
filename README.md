@@ -13,7 +13,7 @@
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [LAConfig](https://www.dropbox.com/scl/fo/rn564pzwlt0g5b07ibckk/ANg8BfR4IDY1-cpiLUlK5ZI?rlkey=6y0kdcd9f6mzze63sw1j24p6i&dl=1)
-- [Local Agent Updater](https://www.dropbox.com/scl/fo/lneo0mykno1y6mwi41jw0/AHey9OYq4VSt5tNRh9CLBpA?rlkey=ez6spvsgjpm0agcx0zxdj9spi&dl=1)
+- [Local Agent Updater v1.0.0002](https://www.dropbox.com/scl/fo/ur3jq378spnxqerss1koj/AOuGnLHAuEWm5QDMSSlheRM?rlkey=jebjc20mzk45cir8sl10kme6q&dl=1)
 - [DOTNetFx48](https://www.dropbox.com/scl/fo/xz152qagna2ggeexgh5fx/AE9P8xSaBGyfw5HjYIxxJZk?rlkey=qaua545f5tb36nx3kpo32g3g8&dl=1)
 - [SqlExpress2022 Atio](https://www.dropbox.com/scl/fo/heosnows0vc84gz73ofy3/AFgIG07cHyTJXD23PWu3PFA?rlkey=qdurzvgyptte10pqtsls2qjt5&dl=1)
 - [WindowsInstaller3_1](https://www.dropbox.com/sh/3ougehv562y10lk/AABW_ut6GanPPQ_Vs4uz2tyea?dl=1)
@@ -23,6 +23,7 @@
 - [V2.0.9200](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Local%20Agent%20(SQL%202008)/LA%20V2.0.9200.zip)
 
 ## Local Agent (SQL 2008) Pre-requisites
+- [DotNet v9.0 Runtime](https://www.dropbox.com/scl/fo/8ue69e8d9gxdzn2gulcpe/ANyswfiKFPyWS8Rr2ZgNTOA?rlkey=clbk7r5d25h40typumsdmzowf&st=v49jkgs0&dl=1)
 - [DotNetFx45](https://www.dropbox.com/sh/7ce3wik49m4sl2w/AACJ9MW-xOD7TKfOIfbz3EYfa?dl=1)
 - [DotNetFx461](https://www.dropbox.com/sh/1vbzunfx1p33hsp/AAAjKmXFY32RbT6oGdIyl0E-a?dl=1)
 - [SqlExpress2008 Atio](https://www.dropbox.com/sh/hozg2pq9nkufb47/AACsadChxE2P-e1yVMLt0jgBa?dl=1)
