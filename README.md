@@ -56,6 +56,12 @@
 #### Verifone T650p Terminal
 - [v2.0.22](https://www.dropbox.com/scl/fi/a5wq5dyjpwmd82lj44o96/app-t650p-releasePROD2.0.22.apk?rlkey=xafqsn04ue02c2oi0s0w5vz7o&dl=1)
 
+## Verifone T650p Terminal Pre-requisites
+
+ - [Ota_Secure](https://www.dropbox.com/scl/fi/s1qpev5py08r8fv3pu0z3/ota_secure_t650_3.44.1-RC3_1720.zip?rlkey=7btlrfr6q6wuzcgqzzz8mjbex&dl=1)
+ - [SetSponsor](https://www.dropbox.com/scl/fi/xxtqyri2abt3mw8n037mj/SetSponsor217485.zip?rlkey=8ukk9pp3yer77artmtl890bea&dl=1)
+ - [SDI](https://www.dropbox.com/scl/fi/cwm7nzqw0bjwnwwq92pqj/SDI-CFG-PROD-Atio-1.0.0.tgz.zip?rlkey=3gk6ctsvrcvr3vtcxf9cto9bn&dl=1)
+
 #### NewLand N910 Terminal
 - [v2.0.11.31335](https://www.dropbox.com/scl/fi/8x6nd0jomo7n1z8tp3r6l/revopos-compact_newland_v2.0.11.31335_vc29_signed.apk?rlkey=jto73kt1gi7dmjgctnl9u4vo8&st=28gjf4ev&dl=1)
 
