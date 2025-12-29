@@ -2,6 +2,7 @@
 # ATIONet Download Center - Older Versions
 
 ## Local Agent (SQL 2022)
+- [v2.6.0002](https://www.dropbox.com/scl/fi/xjnhme6ba79nrsv2pcfsf/LA-v2.6.0002.zip?rlkey=6ahvjellq5zpb7mqhffmo4fd5&dl=1)
 - [v2.6.0001](https://www.dropbox.com/scl/fi/2f0u7163k531a7biw137n/LA-v2.6.0001.zip?rlkey=6nnwukn4qgw1deotoysw8gwkh&dl=1)
 - [v2.5.0301](https://www.dropbox.com/scl/fi/bec511kgxj270nbk0knl7/LA-v2.5.0301.zip?rlkey=xxmv1aobwvqgfyb1q0iix9tqp&dl=1)
 - [v2.5.0257](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Local%20Agent%20(SQL%202022)/LA%202.5.0257.zip)
@@ -17,6 +18,9 @@
 - [V2.5.0102](https://www.dropbox.com/scl/fi/ykkhs6zznzy9azai6ar7h/LA-V2.5.0102.zip?rlkey=8jm9esgb2m5k7u99ohmyriahs&dl=1)
 - [V2.5.0101](https://www.dropbox.com/scl/fi/z4rwqrz629nisyva690yg/LA-V2.5.0101.zip?rlkey=1rjnthb7lcje90005h8gos2cn&dl=1)
 - [V2.5.0001](https://www.dropbox.com/scl/fi/2d1f21c51mvzkhp50cky8/LA-V2.5.0001.zip?rlkey=jf3imx394c5j25wm964mwcs50&dl=1)
+
+## Local Agent Terminal Management (SQL 2022)
+- [v2.6.0002](https://www.dropbox.com/scl/fi/3svpogysfoiixhmdj4ej5/LA-v2.6.0002-Terminal-Management.zip?rlkey=03jayreoey5761rzlilx7794o&dl=1)
 
 
 ## Local Agent (SQL 2008)
@@ -35,6 +39,7 @@
 
 
 ## Stand Alone Terminal (Verifone V240m)
+- [V3.8.7](https://www.dropbox.com/scl/fi/3240e9yue7tzm030rwjjq/StandAlone-V240m-v3.8.7.tgz?rlkey=zqfazc26an9vdoyrk8a4rwpax&dl=1)
 - [v4.7.16](https://www.dropbox.com/s/atg659vb5rbzm7r/dl.vos2-prod-Engage-release-31342300.tgz?dl=1)
 - [V3.7.10](https://www.dropbox.com/s/en8pk44h37yhql8/StandAlone%20V240m%20v3.7.10.tgz?dl=1)
 - [V3.7.11](https://www.dropbox.com/s/j67bdny6qw9po60/StandAlone%20V240m%20v3.7.11.tgz?dl=1)
