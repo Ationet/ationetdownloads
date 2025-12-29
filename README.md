@@ -6,10 +6,10 @@
 # ATIONET Download Center
 
 ## Local Agent (SQL 2022) ([How to install version v2.6.0000 onwards](https://github.com/Ationet/ationetdocs/blob/master/Local%20Agent%20Installation%20Guide-EN.md#installation-version-260000))
-- [v2.6.0002](https://www.dropbox.com/scl/fi/xjnhme6ba79nrsv2pcfsf/LA-v2.6.0002.zip?rlkey=6ahvjellq5zpb7mqhffmo4fd5&dl=1)
+- [v2.6.0003](https://www.dropbox.com/scl/fi/8v5r4ta3h1kjc78jmv9fr/LA-v2.6.0003.zip?rlkey=g97gfoon1i6ishgx8r502f7tc&dl=1)
 
 ## Local Agent for Terminal Management 
-- [v2.6.0002](https://www.dropbox.com/scl/fi/3svpogysfoiixhmdj4ej5/LA-v2.6.0002-Terminal-Management.zip?rlkey=03jayreoey5761rzlilx7794o&dl=1)
+- [v2.6.0003](https://www.dropbox.com/scl/fi/981lfrccdnf216swz7au3/LA-v2.6.0003-Terminal-Management.zip?rlkey=fzsh6cyswdrdv5g5x1m5xidln&dl=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [LAConfig](https://www.dropbox.com/scl/fo/rn564pzwlt0g5b07ibckk/ANg8BfR4IDY1-cpiLUlK5ZI?rlkey=6y0kdcd9f6mzze63sw1j24p6i&dl=1)
@@ -41,7 +41,7 @@
         
 ## Stand Alone Terminal (Verifone V240m)
 #### Step by step installation guide [HERE](https://github.com/Ationet/ationetdocs/blob/master/README_TechnicalDocumentation.md#v240m-standalone-terminal-installation-guide)
-- [V3.8.7](https://www.dropbox.com/scl/fi/3240e9yue7tzm030rwjjq/StandAlone-V240m-v3.8.7.tgz?rlkey=zqfazc26an9vdoyrk8a4rwpax&dl=1)
+- [V3.8.9](https://www.dropbox.com/scl/fi/85n82y261l2eetz52r7w8/StandAlone-V240m-v3.8.9.tgz?rlkey=g9c5d86os78u60277078ijvf7&dl=1)
  
     
 ## Verifone V240m Pre-requisites
