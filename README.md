@@ -34,40 +34,38 @@
     
     
 ## Stand Alone Terminal (Verifone Vx520)
-- [V2.0.0251](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Stand%20Alone%20Terminal%20(Verifone%20Vx520)/StandAlone%20(2.0.0251).zip)
+- [V2.0.0251](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAghvogV-4rT4NWEqky3CdRARXoGawuDXW_CgbtZShtuas?e=unJ4kd&download=1)
 
-        
+
 ## Stand Alone Terminal (Verifone V240m)
 #### Step by step installation guide [HERE](https://github.com/Ationet/ationetdocs/blob/master/README_TechnicalDocumentation.md#v240m-standalone-terminal-installation-guide)
-- [V3.8.9](https://www.dropbox.com/scl/fi/85n82y261l2eetz52r7w8/StandAlone-V240m-v3.8.9.tgz?rlkey=g9c5d86os78u60277078ijvf7&dl=1)
+- [V3.8.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCdVlPUYwGhSIlpjpVRF7EHAb_ODsFwHW4oLTT2t69Cv44?e=faVVTK&download=1)
  
     
 ## Verifone V240m Pre-requisites
-- [Operative System v3.8.17](https://www.dropbox.com/scl/fi/hewd3oeqyqapo5ucft87r/dl.vos2-prod-Engage-release-31342300.tgz?rlkey=pxojua33xb7gd9gkmi9vzhoa0&dl=1)
-- [Library (ADK) v4.7.16](https://www.dropbox.com/s/ieeah7e3i5t193u/dl.adk-4.7.16-1260-vos2-engage-prod.tgz?dl=1)
-- [Remove MAC v4.7.16](https://www.dropbox.com/s/5prax0vxmb7b9u7/dl.mac-remove-3.80.11-prod.tgz?dl=1)
-- [Library Camera v4.7.16](https://www.dropbox.com/s/o835ogktq4zvyem/dl.libhoneywell-0.3-4-prod.tar?dl=1)
-- [Mx Downloader](https://www.dropbox.com/s/r15jo6iqubtkbon/MxDownloader_2.9.0_Setup.exe?dl=1)
+- [Operative System v3.8.17](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDb_xkWbDx4Q5XIdhno0RX2AdEm7hx_0TrTD89_s9qGjAc?e=I7VyrU&download=1)
+- [Library (ADK) v4.7.16](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDp5ATevgTjR5Rpm69ee_hhAVb9nNo500LLRve_AhssZPg?e=i9mKAx=download=1)
+- [Remove MAC v4.7.16](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDfVcuLxHAWRKaQhoNAEKQOAVMIc6D8cBmtwQV9BBCXXD4?e=CLswiW&download=1)
+- [Library Camera v4.7.16](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgBq-9shJ1pTRKBGw59H0v-cAUO3IMcUhtCfePhxWobEsac?e=CbYoBc&download=1)
+- [Mx Downloader](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAvtagiZbsFS4_ogQPPFt-HAYGtvQVOySpYJUFvC70Wzrg?e=JOg7TN&download=1)
 
 ## ATIONET RevoPOS
 
-#### Verifone T650p Terminal
-- [v2.0.22](https://www.dropbox.com/scl/fi/a5wq5dyjpwmd82lj44o96/app-t650p-releasePROD2.0.22.apk?rlkey=xafqsn04ue02c2oi0s0w5vz7o&dl=1)
+## Verifone T650p Terminal
+- [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=WrzcgF&download=1)
 
-## Verifone T650p Terminal Pre-requisites
+#### Verifone T650p Terminal Pre-requisites
 
- - [Ota_Secure](https://www.dropbox.com/scl/fi/s1qpev5py08r8fv3pu0z3/ota_secure_t650_3.44.1-RC3_1720.zip?rlkey=7btlrfr6q6wuzcgqzzz8mjbex&dl=1)
- - [SetSponsor](https://www.dropbox.com/scl/fi/xxtqyri2abt3mw8n037mj/SetSponsor217485.zip?rlkey=8ukk9pp3yer77artmtl890bea&dl=1)
- - [SDI](https://www.dropbox.com/scl/fi/cwm7nzqw0bjwnwwq92pqj/SDI-CFG-PROD-Atio-1.0.0.tgz.zip?rlkey=3gk6ctsvrcvr3vtcxf9cto9bn&dl=1)
+ - [Ota_Secure v3.45.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCvGESXL_eDQpD261JLK2b_AX5wI5RPYoAy94BkQqCGik8?e=sh1cXD)
+ - [SetSponsor](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDYGRagkmXMS71myVae6TStAdnsppa3YU27DCgtrsFJgU8?e=7dXeTw&download=1)
+ - [SDI](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBqOrU4fAG0SpNihMyzgSteAX1DwhsTIP5_PbaYtaxJHWw?e=OtJZhb&download=1)
 
-#### NewLand N910 Terminal
-- [v2.0.11.31335](https://www.dropbox.com/scl/fi/8x6nd0jomo7n1z8tp3r6l/revopos-compact_newland_v2.0.11.31335_vc29_signed.apk?rlkey=jto73kt1gi7dmjgctnl9u4vo8&st=28gjf4ev&dl=1)
+## NewLand N910 Terminal
+- [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBndcLoR8XhQI6bv_dOshGNAf9OencEb9bJ4-Lsw28y3Dg?e=f2UNoA&download=1)
 
-#### Urovo i9000s Terminal
-- [v2.0.11.31335](https://www.dropbox.com/scl/fi/cj441fzgm99nytkptmdh1/revopos-compact_urovo_v2.0.11.31335_vc29_20250430123116_signed-1.apk?rlkey=1y7vx425x571u93k6v25ivjqm&st=sn3zsu0l&dl=1)
+## Urovo i9000s Terminal
+- [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtKlHjLZsMR6FVnidVD4L3AYhPvfLvn-uW1FGadvH1oSI?e=b13rCt&download=1)
 
-#### Config File
-- [CONFIG FILE](https://www.dropbox.com/scl/fi/iqvykbcbbg8w5izlxy7ph/config_vc_9.zip?rlkey=fzxsom4xsnr6amvf6nu7o2fnj&st=bj00dmpm&dl=1)
 
 ## ATIONET Dongle Manatec
 
