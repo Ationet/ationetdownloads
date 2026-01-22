@@ -69,11 +69,11 @@
 
 ## ATIONET Dongle Manatec
 
-- [DOTNET Hosting Bundle (PRE-REQUISITE)](https://www.dropbox.com/scl/fi/vljvuqzghngswnvvdaw58/dotnet-hosting-6.0.36-win.exe?rlkey=ka92j5hbi45x69gpp74rnt2me&st=kzu5mo18&dl=0)
-- [v1.3.0.1 Portable](https://www.dropbox.com/scl/fi/fm7j1drs9aochwiz0otrk/Atio.DongleManatecPortable_1.3.0.1.zip?rlkey=ocizasshjf45wwhypy9qzqn98&st=06st2l0l&dl=0)
- -- [Instalation Guide](https://www.dropbox.com/scl/fi/ukjpw4v8wr2b3u28rrqfy/ATIONET-Dongle-Manatec-Portable-Installation-Guide.pdf?rlkey=ia19vjsykrlyp7ljb01rzd6xn&st=4f6umyv6&dl=0)
-- [v1.3.0.1 MSI Installer](https://www.dropbox.com/scl/fi/oxhr6w8exs0dolatlci1j/AtionetDongleManatecSetup_1.3.0.1.zip?rlkey=88odlbey6h21ute0dk1eghtkx&st=zrzq915b&dl=0)  -- [Instalation Guide](https://www.dropbox.com/scl/fi/5w5mcid7m3qk1wj9nx7ep/ATIONET-Dongle-Manatec-MSI-Installation-Guide.pdf?rlkey=5jjj4skfgwo66bta9n4ig5c14&st=x9cy26nf&dl=0)
-- [Configuration Guide](https://www.dropbox.com/scl/fi/51v2wfkdwzea1lbo9lwbp/ATIONET-Dongle-Manatec-Configuration-Guide.pdf?rlkey=3ycb6a8zuekolk1gv71dkvx37&st=u55turqr&dl=0)
+- [DOTNET Hosting Bundle (PRE-REQUISITE)](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQB2L5cURsXASIrYtTgSYLY2ATLzrdnIzre0uTT2gBdvLII?e=2EkkKZ&download=1)
+- [v1.3.0.1 Portable](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD3X_7KAzzWTrqosir4onFRAfvOOJEUuoKN0pAcwjP35dw?e=9PbUek&download=1)
+ -- [Instalation Guide](https://atioinc-my.sharepoint.com/:b:/g/personal/support_ationet_com/IQCAbfpf7wEjSK4A_rTdoLQqARWNh_nSnV3bZnQCKrD1hQ8?e=wlHoFd&download=1)
+- [v1.3.0.1 MSI Installer](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC4xnu5a74NQoUqe6ABpabaAbWQI6tt8lqUPCA4zb19s4A?e=c0qOKA&download=1)  -- [Instalation Guide](https://atioinc-my.sharepoint.com/:b:/g/personal/support_ationet_com/IQAmbmOltzA3RK_7yIgYnO4-AWiErHTWFb67Fo6FXHu3ozs?e=Yg8Yvx&download=1)
+- [Configuration Guide](https://atioinc-my.sharepoint.com/:b:/g/personal/support_ationet_com/IQBiu0c1_On1QaQgIynNNBdZAVOyf3pW36pqxqsxphOcqKU?e=m7eXxs&download=1)
 
 <br />
 <br />
