@@ -20,28 +20,22 @@
 
 
 ## Stand Alone Terminal (Verifone Vx520)
-- [V2.0.0205](https://www.dropbox.com/s/rj2ou6sx7ybkg54/StandAlone%20%282.0.0205%29%20EVO.zip?dl=1)
-- [V2.0.0202](https://www.dropbox.com/s/155ziyk60yl1g4d/StandAlone%20%282.0.0202%29%20EVO.zip?dl=1)
-- [V2.0.0201](https://www.dropbox.com/s/7w5zh8foookzds4/StandAlone%20%282.0.0201%29%20EVO.zip?dl=1)
+- [V2.0.0205](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDbQnnx42vBQJ7gPyqKRUeLAWP6zZmfTL7NKsKY5W2hQIE?e=NDoNFI&download=1)
+- [V2.0.0202](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBpUJ1V19FPTp8KdknsBOsCAdbHHBF7sGbZomnoOzJma04?e=bA1OAr&download=1)
+- [V2.0.0201](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAWJmwaZZlLRZx5gwFdFA3NAYeWvGOWEADO49LWviaRk9M?e=c3xgyn&download=1)
 
 
 ## Stand Alone Terminal (Verifone V240m)
-- [V3.8.7](https://www.dropbox.com/scl/fi/3240e9yue7tzm030rwjjq/StandAlone-V240m-v3.8.7.tgz?rlkey=zqfazc26an9vdoyrk8a4rwpax&dl=1)
-- [v4.7.16](https://www.dropbox.com/s/atg659vb5rbzm7r/dl.vos2-prod-Engage-release-31342300.tgz?dl=1)
-- [V3.7.10](https://www.dropbox.com/s/en8pk44h37yhql8/StandAlone%20V240m%20v3.7.10.tgz?dl=1)
-- [V3.7.11](https://www.dropbox.com/s/j67bdny6qw9po60/StandAlone%20V240m%20v3.7.11.tgz?dl=1)
-- [V3.7.13](https://www.dropbox.com/s/441fldin96qlrp8/StandAlone%20V240m%20v3.7.13.tgz?dl=1)
-- [V3.7.17](https://www.dropbox.com/s/f9ewbsbo6ik6poy/StandAlone%20V240m%20v3.7.17.tgz?dl=1)
-- [V3.7.19](https://www.dropbox.com/s/4bx07sqx65oisxv/StandAlone%20V240m%20v3.7.19.tgz?dl=1)
-- [V3.7.20](https://www.dropbox.com/scl/fi/jcmutu8c8t3hiaeg61bjt/dl.StandAlone-vos2-rel-signed.tgz?rlkey=6unxujbrif912gev0y48ziz2h&dl=1)
-- [V3.7.21](https://www.dropbox.com/scl/fi/umpl4ntpu5gqm9hh5v9hf/StandAlone-V240m-v3.7.21.tgz?rlkey=9el8g384a1edu3snre77m8z2k&dl=1)
-- [V3.8.1](https://www.dropbox.com/scl/fi/4a1fbjlpsnnxta8xq4ere/StandAlone-V240m-v3.8.1.tgz?rlkey=uuh279ljvv8hf5rjqho9b3bas&dl=1)
-- [V3.8.2](https://www.dropbox.com/scl/fi/de29jq1qd9nj8p22d5s7m/StandAlone-V240m-v3.8.2.tgz?rlkey=ttm2rqoc18qvwu8hekw7pllf7&dl=1)
-- [V3.8.6](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Stand%20Alone%20Terminal%20(Verifone%20V240m)/StandAlone%20V240mv3.8.6.tgz)
+- [V3.8.7](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCd22AYNEN8RIx7oFxdkZk-AYH5LXfizdLk3694uCLyt7E?e=cASJWd&download=1)
+- [V3.8.6](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDVt1x7FbRMQrpgnUS9SZEJAYWIu0BTLu2CZeIIs4zOCaI?e=t6nT41&download=1)
+- [V3.8.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDhHHYSis4UQ4nsII1D9ws7Afo4ig17mYElaCQTOUqSij8?e=gXO6iJ&download=1)
+- [V3.8.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCmKj4iBoaDQ6-6MgZfE6JdAdE4r1Zqnx8tYD3udfbuhA4?e=90B9vv&download=1)
+
+
 
 
 ## Verifone V240m Pre-requisites
-- [Operative System v4.7.9](https://www.dropbox.com/s/dg49x5b9g9z7g48/dl.vos2-prod-Engage-release-31341300.tgz?dl=1)
-- [Library (ADK) v4.7.9](https://www.dropbox.com/s/9wcngpg0paflwxk/dl.adk-4.7.9-1009-vos2-engage-prod.tgz?dl=1)
-- [Remove MAC v4.7.9](https://www.dropbox.com/s/hudnb9h39jrrqci/dl.mac-remove-3.78.1-prod.tgz?dl=1)
-- [Library Camera v4.7.9](https://www.dropbox.com/s/2mejp19n7jktpac/dl.libhoneywell-0.3-2-prod.tar?dl=1)
+- [Operative System v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgBW5M8mXTI2QYTXfyQip9TBAVzVGm16h45CK2m3AldtB1M?e=SXYVUA&download=1)
+- [Library (ADK) v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDZoyMAfQksSY8w9DpjxVssAeQLyIsQl4Rp2rq6VPInOhc?e=hKCPp4&download=1)
+- [Remove MAC v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgAZr1g2xho6RpjelnDQ1EaaAVRd1rEt9-fG5tK_wg9vflg?e=2RcAVg&download=1)
+- [Library Camera v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDlNmXHQYDzQLm9IaL34ChwAZTSVHsce75feSTXKc05xUs?e=mMsEXP&download=1)
