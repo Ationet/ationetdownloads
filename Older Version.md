@@ -8,28 +8,28 @@
 - [v2.5.0257](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBKcA-4emNwSrdIwkwjADDYAbUUWXRH-TTE6SqJBQOOhqY?e=20tQuq&download=1)
 - [v2.5.0256](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAw2b04YZQ6TbXKUhyr_7WmAYlO214K_mkUHCWmOEA68rw?e=PZPwar&download=1)
 - [v2.5.0254](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDCig-UT3hyRK_HscUf76t-AXRFDq99fK5BmhPAS_tP0RY?e=yveUHe&download=1)
-- [V2.5.0211](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAQgpQIKPYcRreDeNSU0PCpAacfAAheew_UIW7LFBIYoKU?e=2ShOwQ&download=1)
+- [v2.5.0211](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAQgpQIKPYcRreDeNSU0PCpAacfAAheew_UIW7LFBIYoKU?e=2ShOwQ&download=1)
 
 
 ## Local Agent (SQL 2008)
-- [V2.0.9027](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAvXkwbzpM4Qbr3z_K2F3XKATGd9OryMYErdIjZrRvbNyM?e=tlTcMW&download=1)
-- [V2.0.9026](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCgB8aTYnhRSqrx8tC31X4ZAePIdnbuexEtU-WRLWEsv1Y?e=N7ROEN&download=1)
-- [V2.0.9025](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBibGKWeAx7SphEmT5wVKwlAXXsFpMdqlJDa3QPsYLoWzE?e=sQVQnW&download=1)
-- [V2.0.9022](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCcMro4MG8hTKJQGZuO2eYtAWPWv79U8jZG1034-g06AiA?e=VHFDlV&download=1)
-- [V2.0.9021](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBVAqXwfkiPRJL2flKydMOJAR8-eIYqBVetkTZFYTNXcis?e=wHsVPB&download=1)
+- [v2.0.9027](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAvXkwbzpM4Qbr3z_K2F3XKATGd9OryMYErdIjZrRvbNyM?e=tlTcMW&download=1)
+- [v2.0.9026](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCgB8aTYnhRSqrx8tC31X4ZAePIdnbuexEtU-WRLWEsv1Y?e=N7ROEN&download=1)
+- [v2.0.9025](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBibGKWeAx7SphEmT5wVKwlAXXsFpMdqlJDa3QPsYLoWzE?e=sQVQnW&download=1)
+- [v2.0.9022](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCcMro4MG8hTKJQGZuO2eYtAWPWv79U8jZG1034-g06AiA?e=VHFDlV&download=1)
+- [v2.0.9021](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBVAqXwfkiPRJL2flKydMOJAR8-eIYqBVetkTZFYTNXcis?e=wHsVPB&download=1)
 
 
 ## Stand Alone Terminal (Verifone Vx520)
-- [V2.0.0205](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDbQnnx42vBQJ7gPyqKRUeLAWP6zZmfTL7NKsKY5W2hQIE?e=NDoNFI&download=1)
-- [V2.0.0202](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBpUJ1V19FPTp8KdknsBOsCAdbHHBF7sGbZomnoOzJma04?e=bA1OAr&download=1)
-- [V2.0.0201](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAWJmwaZZlLRZx5gwFdFA3NAYeWvGOWEADO49LWviaRk9M?e=c3xgyn&download=1)
+- [v2.0.0205](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDbQnnx42vBQJ7gPyqKRUeLAWP6zZmfTL7NKsKY5W2hQIE?e=NDoNFI&download=1)
+- [v2.0.0202](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBpUJ1V19FPTp8KdknsBOsCAdbHHBF7sGbZomnoOzJma04?e=bA1OAr&download=1)
+- [v2.0.0201](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAWJmwaZZlLRZx5gwFdFA3NAYeWvGOWEADO49LWviaRk9M?e=c3xgyn&download=1)
 
 
 ## Stand Alone Terminal (Verifone V240m)
-- [V3.8.7](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCd22AYNEN8RIx7oFxdkZk-AYH5LXfizdLk3694uCLyt7E?e=cASJWd&download=1)
-- [V3.8.6](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDVt1x7FbRMQrpgnUS9SZEJAYWIu0BTLu2CZeIIs4zOCaI?e=t6nT41&download=1)
-- [V3.8.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDhHHYSis4UQ4nsII1D9ws7Afo4ig17mYElaCQTOUqSij8?e=gXO6iJ&download=1)
-- [V3.8.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCmKj4iBoaDQ6-6MgZfE6JdAdE4r1Zqnx8tYD3udfbuhA4?e=90B9vv&download=1)
+- [v3.8.7](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCd22AYNEN8RIx7oFxdkZk-AYH5LXfizdLk3694uCLyt7E?e=cASJWd&download=1)
+- [v3.8.6](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDVt1x7FbRMQrpgnUS9SZEJAYWIu0BTLu2CZeIIs4zOCaI?e=t6nT41&download=1)
+- [v3.8.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDhHHYSis4UQ4nsII1D9ws7Afo4ig17mYElaCQTOUqSij8?e=gXO6iJ&download=1)
+- [v3.8.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCmKj4iBoaDQ6-6MgZfE6JdAdE4r1Zqnx8tYD3udfbuhA4?e=90B9vv&download=1)
 
 
 
