@@ -6,29 +6,27 @@
 # ATIONET Download Center
 
 ## Local Agent (SQL 2022) ([How to install version v2.6.0000 onwards](https://github.com/Ationet/ationetdocs/blob/master/Local%20Agent%20Installation%20Guide-EN.md#installation-version-260000))
-- [v2.6.0002](https://www.dropbox.com/scl/fi/xjnhme6ba79nrsv2pcfsf/LA-v2.6.0002.zip?rlkey=6ahvjellq5zpb7mqhffmo4fd5&dl=1)
 
-## Local Agent for Terminal Management
-- [v2.6.0003](https://atioinc-my.sharepoint.com/:u:/g/personal/sabramo_ationet_com/IQBEu1fCZ07PSobWXidy2xwZATKJyf6g1vIUndkzYynWFp8?e=xDUYbP&download=1)
+- [v2.6.0003](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCK366iU1E7SLaUKxXFwETiAVstLdCWpU5ekOoeU-GAO3k?e=2RxtHv&download=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
-- [LAConfig](https://www.dropbox.com/scl/fo/rn564pzwlt0g5b07ibckk/ANg8BfR4IDY1-cpiLUlK5ZI?rlkey=6y0kdcd9f6mzze63sw1j24p6i&dl=1)
-- [Local Agent Updater v1.0.0002](https://www.dropbox.com/scl/fo/ur3jq378spnxqerss1koj/AOuGnLHAuEWm5QDMSSlheRM?rlkey=jebjc20mzk45cir8sl10kme6q&dl=1)
-- [DOTNetFx48](https://www.dropbox.com/scl/fo/xz152qagna2ggeexgh5fx/AE9P8xSaBGyfw5HjYIxxJZk?rlkey=qaua545f5tb36nx3kpo32g3g8&dl=1)
-- [SqlExpress2022 Atio](https://www.dropbox.com/scl/fo/heosnows0vc84gz73ofy3/AFgIG07cHyTJXD23PWu3PFA?rlkey=qdurzvgyptte10pqtsls2qjt5&dl=1)
-- [WindowsInstaller3_1](https://www.dropbox.com/sh/3ougehv562y10lk/AABW_ut6GanPPQ_Vs4uz2tyea?dl=1)
-- [WindowsInstaller4_5](https://www.dropbox.com/sh/nb0l663jln6jzaf/AAA5bZ-krsQua-qj829Itfw9a?dl=1)
+- [LAConfig](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQB7uvPlwwwdQ6zAky1ol9Z8AWCvqsaom3t-MNyl8bWfrvQ?e=70wV0x&download=1)
+- [Local Agent Updater v1.0.0002](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBJPnkTT3bzTZywP0RcY7N0ASfkgL6vdp8NICu2HUSk8Kg?e=aLTY3w&download=1)
+- [DOTNetFx48](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDtfeSiZjcOR7IH37393RY3AQq1-K3CAfNOjU_keE2tCUc?e=SEG1sK&download=1)
+- [SqlExpress2022 Atio](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCQYueNs5poRr2yTmIFGZFeAZC5riLHLVo6cy4l54QUkiY?e=kjQDVa&download=1)
+- [WindowsInstaller3_1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAUarstLhaDQ6yqf2cXIJ4oAXEA4VX_Ma07kz-yqSdklms?e=TjsaoW&download=1)
+- [WindowsInstaller4_5](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDOkijelTaWSoUCOIusCnBaAYYQqBrQMvnsTa1g3P-_Cio?e=dbsgDI&download=1)
 
 ## Local Agent (SQL 2008)
-- [V2.0.9200](https://github.com/Ationet/ationetdownloads/raw/refs/heads/master/Download%20Files/Local%20Agent%20(SQL%202008)/LA%20V2.0.9200.zip)
+- [V2.0.9200](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAXa8KHuopMSZriSzW5hNjyAdOmyndk9LqtILeOzTOJgi8?e=uRqS2G&download=1)
 
 ## Local Agent (SQL 2008) Pre-requisites
-- [DotNet v9.0 Runtime](https://www.dropbox.com/scl/fo/8ue69e8d9gxdzn2gulcpe/ANyswfiKFPyWS8Rr2ZgNTOA?rlkey=clbk7r5d25h40typumsdmzowf&st=v49jkgs0&dl=1)
-- [DotNetFx45](https://www.dropbox.com/sh/7ce3wik49m4sl2w/AACJ9MW-xOD7TKfOIfbz3EYfa?dl=1)
-- [DotNetFx461](https://www.dropbox.com/sh/1vbzunfx1p33hsp/AAAjKmXFY32RbT6oGdIyl0E-a?dl=1)
-- [SqlExpress2008 Atio](https://www.dropbox.com/sh/hozg2pq9nkufb47/AACsadChxE2P-e1yVMLt0jgBa?dl=1)
-- [WindowsInstaller3_1](https://www.dropbox.com/sh/3ougehv562y10lk/AABW_ut6GanPPQ_Vs4uz2tyea?dl=1)
-- [WindowsInstaller4_5](https://www.dropbox.com/sh/nb0l663jln6jzaf/AAA5bZ-krsQua-qj829Itfw9a?dl=1)
+- [DotNet v9.0 Runtime](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBQvqfE7aY2RbWtKH8Ki64iAURHFyJtxuLllvBYyCzntf0?e=dNODlV&download=1)
+- [DotNetFx45](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCVC8J4aFizQZszqdhVH9rXAbvXKP_SWGfSZIvnn-pwjKE?e=ETarmJ&download=1)
+- [DotNetFx461](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCufyjt4WnmTbE4Mp-11ikLAcK3DqmOfHmzermokKvFdCs?e=6RiVI1&download=1)
+- [SqlExpress2008 Atio](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCdhYQtWbVuR4FLKjs2x888AdxyOzTnxojlY1Pg50cHzhM?e=9znfP1&download=1)
+- [WindowsInstaller3_1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAbXzKcvlh6TIems512YVECAe_JIKaIx61qxN3mKNDp3bE?e=nAXGhC&download=1)
+- [WindowsInstaller4_5](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBM4K3ocaISQbifQiYyo9lsAQNF5TXojyJJsaRn3IfBMGg?e=VEbU6I&download=1)
     
     
 ## Inventory Client
