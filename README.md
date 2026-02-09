@@ -56,7 +56,7 @@
 
 #### Verifone T650p Terminal Pre-requisites
 
- - [Ota_Secure v3.45.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCvGESXL_eDQpD261JLK2b_AX5wI5RPYoAy94BkQqCGik8?e=sh1cXD)
+ - [Ota_Secure v3.45.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCvGESXL_eDQpD261JLK2b_AX5wI5RPYoAy94BkQqCGik8?e=sh1cXD&download=1)
  - [SetSponsor](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDYGRagkmXMS71myVae6TStAdnsppa3YU27DCgtrsFJgU8?e=7dXeTw&download=1)
  - [SDI](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBqOrU4fAG0SpNihMyzgSteAX1DwhsTIP5_PbaYtaxJHWw?e=OtJZhb&download=1)
 
