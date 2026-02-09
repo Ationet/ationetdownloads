@@ -7,11 +7,11 @@
 
 ## Local Agent (SQL 2022) ([How to install version v2.6.0000 onwards](https://github.com/Ationet/ationetdocs/blob/master/Local%20Agent%20Installation%20Guide-EN.md#installation-version-260000))
 
-- [v2.6.0003](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCK366iU1E7SLaUKxXFwETiAVstLdCWpU5ekOoeU-GAO3k?e=2RxtHv&download=1)
+- [v2.6.0051](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBYgPjn-pFdRpxhEsiyrgzrAcUq1Xanpb7Sk9psVhmtLmI?e=FMaiNU&download=1)
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [LAConfig](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQB7uvPlwwwdQ6zAky1ol9Z8AWCvqsaom3t-MNyl8bWfrvQ?e=70wV0x&download=1)
-- [Local Agent Updater v1.0.0002](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBJPnkTT3bzTZywP0RcY7N0ASfkgL6vdp8NICu2HUSk8Kg?e=aLTY3w&download=1)
+- [Local Agent Updater v1.0.0005](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQA0Spo5wg3tRJ1LzibG0fJfAfSKMHyJmoo3EBoLVEfyY7I?e=pGr4zB&download=1)
 - [DOTNetFx48](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDtfeSiZjcOR7IH37393RY3AQq1-K3CAfNOjU_keE2tCUc?e=SEG1sK&download=1)
 - [SqlExpress2022 Atio](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCQYueNs5poRr2yTmIFGZFeAZC5riLHLVo6cy4l54QUkiY?e=kjQDVa&download=1)
 - [WindowsInstaller3_1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAUarstLhaDQ6yqf2cXIJ4oAXEA4VX_Ma07kz-yqSdklms?e=TjsaoW&download=1)
