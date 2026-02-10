@@ -31,10 +31,12 @@
 - [v3.8.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCmKj4iBoaDQ6-6MgZfE6JdAdE4r1Zqnx8tYD3udfbuhA4?e=90B9vv&download=1)
 
 
-
-
 ## Verifone V240m Pre-requisites
 - [Operative System v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBuH4rdbgGfT4AaOfSO707dAQT5BexB8BfXiDv-nKo3cks?e=Nmba6f&download=1)
 - [Library (ADK) v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDT81J4JjInQ4uSDdUHu3RVAUIdIz-yMCqRbWG0SA2HtM8?e=2QgTy1&download=1)
 - [Remove MAC v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDcnilGdWJVTLAVA5e4TE7mAUbPNsr5IJXTd6lWFfqhfss?e=6Og8Xi&download=1)
 - [Library Camera v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAjouD-sW5GQrx-diyhnPXsARRDvCyIM88xljyXhadrdFc?e=HbftXa&download=1)
+
+
+## Verifone T650p Terminal
+- [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=2fWkWn&download=1)
