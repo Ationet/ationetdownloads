@@ -34,7 +34,7 @@
 
 
 ## Verifone V240m Pre-requisites
-- [Operative System v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgBW5M8mXTI2QYTXfyQip9TBAVzVGm16h45CK2m3AldtB1M?e=SXYVUA&download=1)
-- [Library (ADK) v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDZoyMAfQksSY8w9DpjxVssAeQLyIsQl4Rp2rq6VPInOhc?e=hKCPp4&download=1)
-- [Remove MAC v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgAZr1g2xho6RpjelnDQ1EaaAVRd1rEt9-fG5tK_wg9vflg?e=2RcAVg&download=1)
-- [Library Camera v4.7.9](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDlNmXHQYDzQLm9IaL34ChwAZTSVHsce75feSTXKc05xUs?e=mMsEXP&download=1)
+- [Operative System v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBuH4rdbgGfT4AaOfSO707dAQT5BexB8BfXiDv-nKo3cks?e=Nmba6f&download=1)
+- [Library (ADK) v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDT81J4JjInQ4uSDdUHu3RVAUIdIz-yMCqRbWG0SA2HtM8?e=2QgTy1&download=1)
+- [Remove MAC v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDcnilGdWJVTLAVA5e4TE7mAUbPNsr5IJXTd6lWFfqhfss?e=6Og8Xi&download=1)
+- [Library Camera v4.7.9](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAjouD-sW5GQrx-diyhnPXsARRDvCyIM88xljyXhadrdFc?e=HbftXa&download=1)
