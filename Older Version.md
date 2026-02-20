@@ -43,8 +43,5 @@
 ## Verifone T650p Terminal
 - [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=2fWkWn&download=1)
 
-## NewLand N910 Terminal
-- [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBndcLoR8XhQI6bv_dOshGNAf9OencEb9bJ4-Lsw28y3Dg?e=zBcrPw&download=1)
-
 ## Urovo i9000s Terminal
 - [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtKlHjLZsMR6FVnidVD4L3AYhPvfLvn-uW1FGadvH1oSI?e=opmhE0&download=1)
