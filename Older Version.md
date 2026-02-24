@@ -41,6 +41,7 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
+- [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtfb2HD-rASIwJaIMmNGxBAVQ65mu6-v215NumHY7tcNU?e=X25PCq&download=1)
 - [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=2fWkWn&download=1)
 
 ## Urovo i9000s Terminal
