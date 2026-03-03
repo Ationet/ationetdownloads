@@ -52,7 +52,7 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
-- [v2.1.4](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDc_I7OePA-Q5SDBeOJyUNIAdXWdNMsc6YpvI56ZyE433o?e=OUHIql&download=1)
+- [v2.1.5](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCDbq-zhvd5T6eGuS12JPT3AVB-O5PS--oPvibPe6PLgMw?e=MEYV9C&download=1)
 
 #### Verifone T650p Terminal Pre-requisites
 
