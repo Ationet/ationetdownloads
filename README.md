@@ -11,7 +11,7 @@
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [LAConfig](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQB7uvPlwwwdQ6zAky1ol9Z8AWCvqsaom3t-MNyl8bWfrvQ?e=70wV0x&download=1)
-- [Local Agent Updater v1.0.0005](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQA0Spo5wg3tRJ1LzibG0fJfAfSKMHyJmoo3EBoLVEfyY7I?e=pGr4zB&download=1)
+- [Local Agent Updater v1.0.0006](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD00QlLQk1rSqVJRCphz2G3AY4R5POtTM1yeXhE9Cdlbpk?e=Rd8SKd&download=1)
 - [DOTNetFx48](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDtfeSiZjcOR7IH37393RY3AQq1-K3CAfNOjU_keE2tCUc?e=SEG1sK&download=1)
 - [SqlExpress2022 Atio](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCQYueNs5poRr2yTmIFGZFeAZC5riLHLVo6cy4l54QUkiY?e=kjQDVa&download=1)
 - [WindowsInstaller3_1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAUarstLhaDQ6yqf2cXIJ4oAXEA4VX_Ma07kz-yqSdklms?e=TjsaoW&download=1)
