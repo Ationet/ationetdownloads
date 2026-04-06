@@ -7,7 +7,8 @@
 
 ## Local Agent (SQL 2022) ([How to install version v2.6.0000 onwards](https://github.com/Ationet/ationetdocs/blob/master/Local%20Agent%20Installation%20Guide-EN.md#installation-version-260000))
 
-- [v2.6.0051](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBYgPjn-pFdRpxhEsiyrgzrAcUq1Xanpb7Sk9psVhmtLmI?e=FMaiNU&download=1)
+- [v2.6.0053](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD6ZFvS8EAxTrtlKUw2ovlUAcJZSdoyssfJ2OSpkM6aQ5w?e=dB4MsH&download=1)
+- [Terminal Management v2.6.0053](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAgFeL-lR1rQJ4r6s5-WdA0Ac8c2_wkWxragJYJLGplQcg?e=c8gBFE)
 
 ## Local Agent (SQL 2022) Pre-requisites
 - [LAConfig](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQB7uvPlwwwdQ6zAky1ol9Z8AWCvqsaom3t-MNyl8bWfrvQ?e=70wV0x&download=1)
