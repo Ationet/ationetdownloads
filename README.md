@@ -53,7 +53,7 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
-- [v2.1.5](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCDbq-zhvd5T6eGuS12JPT3AVB-O5PS--oPvibPe6PLgMw?e=MEYV9C&download=1)
+- [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAai2hbVj6pQpz3SxxZBCD3AbRgzoCE_ESOwA0ZCXz6QXY?e=LqAguM&download=1)
 
 #### Verifone T650p Terminal Pre-requisites
 
@@ -65,7 +65,7 @@
 - [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBndcLoR8XhQI6bv_dOshGNAf9OencEb9bJ4-Lsw28y3Dg?e=fQLZWi&download=1)
 
 ## Urovo i9000s Terminal
-- [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBrf5V72tRPT6Su-jfLEbh-AU7tzJ_X7hbj-0BY3Ygbt_k?e=PSUy7H&download=1)
+- [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC4kxWT1hojTYTWNhH9ntKsASeg09uloo4_clr20Xf-lEs?e=kJpy3e&download=1)
 
 
 ## ATIONET Dongle Manatec
