@@ -48,5 +48,5 @@
 - [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=2fWkWn&download=1)
 
 ## Urovo i9000s Terminal
-- [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBrf5V72tRPT6Su-jfLEbh-AU7tzJ_X7hbj-0BY3Ygbt_k?e=5avKxr&download=1)
+- [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBrf5V72tRPT6Su-jfLEbh-AU7tzJ_X7hbj-0BY3Ygbt_k?e=hsMOOI&download=1)
 - [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtKlHjLZsMR6FVnidVD4L3AYhPvfLvn-uW1FGadvH1oSI?e=n7GuOP&download=1)
