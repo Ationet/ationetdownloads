@@ -42,9 +42,11 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
+- [v2.1.8](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgAyZoZK3nlrQosRNHcHBUU6AVWf-bnJ0nZgfMTDc1gOzU0?e=TgYMPU&download=1)
 - [v2.1.4](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDc_I7OePA-Q5SDBeOJyUNIAdXWdNMsc6YpvI56ZyE433o?e=OJ1c59&download=1)
 - [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtfb2HD-rASIwJaIMmNGxBAVQ65mu6-v215NumHY7tcNU?e=X25PCq&download=1)
 - [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=2fWkWn&download=1)
 
 ## Urovo i9000s Terminal
-- [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtKlHjLZsMR6FVnidVD4L3AYhPvfLvn-uW1FGadvH1oSI?e=opmhE0&download=1)
+- [v2.1.2](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgANH7ujgKtxSqg_a07ABHARAYmKVLLer9mYBmGNXvXpriE?e=nNDebA&download=1)
+- [v2.0.11.31335](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgBs2MHuOaFQSLUuFWqrKlkLAZrXe2jgTpq1onNaqIpNvW4?e=A3tQ2A&download=1)
