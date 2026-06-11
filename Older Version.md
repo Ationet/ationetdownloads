@@ -40,7 +40,7 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
-- [v2.1.8](https://atioinc-my.sharepoint.com/:f:/g/personal/support_ationet_com/IgDfp0A3MQuPTY_A_rFid4dPAacxgp1aE0tIg_B9P_7dzY0?e=EKhFum&download=1)
+- [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAai2hbVj6pQpz3SxxZBCD3AbRgzoCE_ESOwA0ZCXz6QXY?e=OhlsXd&download=1)
 - [v2.1.5](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCDbq-zhvd5T6eGuS12JPT3AVB-O5PS--oPvibPe6PLgMw?e=cOsrHI&download=1)
 - [v2.1.4](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDc_I7OePA-Q5SDBeOJyUNIAdXWdNMsc6YpvI56ZyE433o?e=OJ1c59&download=1)
 - [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtfb2HD-rASIwJaIMmNGxBAVQ65mu6-v215NumHY7tcNU?e=X25PCq&download=1)
