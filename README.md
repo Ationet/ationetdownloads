@@ -61,8 +61,9 @@
  - [SetSponsor](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDYGRagkmXMS71myVae6TStAdnsppa3YU27DCgtrsFJgU8?e=7dXeTw&download=1)
  - [SDI](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBqOrU4fAG0SpNihMyzgSteAX1DwhsTIP5_PbaYtaxJHWw?e=OtJZhb&download=1)
 
+
 ## NewLand N910 Terminal
-- [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBndcLoR8XhQI6bv_dOshGNAf9OencEb9bJ4-Lsw28y3Dg?e=fQLZWi&download=1)
+- [v2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAiuo-nFIejQLwJ9lNmlnXPAYsfR3dZ3iF0QC1wLf4Zwrg?e=mCWHRs&download=1)
 
 ## Urovo i9000s Terminal
 - [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC4kxWT1hojTYTWNhH9ntKsASeg09uloo4_clr20Xf-lEs?e=kJpy3e&download=1)
