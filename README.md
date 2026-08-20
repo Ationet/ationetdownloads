@@ -53,17 +53,20 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
-- [v2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD_BudgvnKBT6yoGevy98CtAV5XOrPkiHZYjlGg6x8c3qg?e=fXoOZy&download=1)
 
-#### Verifone T650p Terminal Pre-requisites
+#### Pre-requisites
 
  - [Ota_Secure v3.45.1](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCEYBEtwUXrT6-gaGZyS1DuAfWLf4inVil1BJOXq7X5MG4?e=E1lyCd&download=1)
  - [SetSponsor](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDYGRagkmXMS71myVae6TStAdnsppa3YU27DCgtrsFJgU8?e=7dXeTw&download=1)
  - [SDI](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBqOrU4fAG0SpNihMyzgSteAX1DwhsTIP5_PbaYtaxJHWw?e=OtJZhb&download=1)
 
+#### Application
+- [v2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD_BudgvnKBT6yoGevy98CtAV5XOrPkiHZYjlGg6x8c3qg?e=fXoOZy&download=1)
+
 
 ## NewLand N910 Terminal
 - [v2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAiuo-nFIejQLwJ9lNmlnXPAYsfR3dZ3iF0QC1wLf4Zwrg?e=mCWHRs&download=1)
+
 
 ## Urovo i9000s Terminal
 - [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC4kxWT1hojTYTWNhH9ntKsASeg09uloo4_clr20Xf-lEs?e=kJpy3e&download=1)
