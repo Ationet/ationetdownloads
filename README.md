@@ -61,15 +61,15 @@
  - [SDI](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBqOrU4fAG0SpNihMyzgSteAX1DwhsTIP5_PbaYtaxJHWw?e=OtJZhb&download=1)
 
 #### Application
-- [v2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD_BudgvnKBT6yoGevy98CtAV5XOrPkiHZYjlGg6x8c3qg?e=fXoOZy&download=1)
+- [v2.1.18](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDJTHmSbRLjQroLsEXwzeQTAbgv5Eo9liOaX8PwR6yTmow?e=69zAPy&download=1)
 
 
 ## NewLand N910 Terminal
-- [v2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAiuo-nFIejQLwJ9lNmlnXPAYsfR3dZ3iF0QC1wLf4Zwrg?e=mCWHRs&download=1)
+- [v2.1.18](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCW_qOU1z2aRKnb5SLRr2NoAb4bIi_tpJWrgyi4eNCfweQ?e=Z0bjex&download=1)
 
 
 ## Urovo i9000s Terminal
-- [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC4kxWT1hojTYTWNhH9ntKsASeg09uloo4_clr20Xf-lEs?e=kJpy3e&download=1)
+- [v2.1.18](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBQObx3COIdQ5-aFR3vLTbeAW69K61uf0__lh5smWSCp4o?e=BVdwOm&download=1)
 
 
 ## ATIONET Dongle Manatec
