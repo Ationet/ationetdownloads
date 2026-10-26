@@ -2,12 +2,18 @@
 # ATIONet Download Center - Older Versions
 
 ## Local Agent (SQL 2022)
+- [v2.6.0202](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDoz2WUhi7qQqdLgSReqvj7Adnsnt7HihED7krp9Qjsw4s?e=0vChNC&download=1)
 - [v2.6.0101](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAoZBJDv4dJSoaOe72suTUnAbL_2cmu2iwcYvl8FLMOlrk?e=DscYV8&download=1)
 - [v2.6.0053](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD6ZFvS8EAxTrtlKUw2ovlUAcJZSdoyssfJ2OSpkM6aQ5w?e=9VyWTy&download=1)
 - [v2.6.0051](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBYgPjn-pFdRpxhEsiyrgzrAcUq1Xanpb7Sk9psVhmtLmI?e=Wn7B6y&download=1)
 - [v2.6.0003](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCK366iU1E7SLaUKxXFwETiAVstLdCWpU5ekOoeU-GAO3k?e=6gLLJ2&download=1)
 - [v2.6.0002](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCMutRArkOzTbCzVBarXTRQAZzYdC_SDQzUS3wjuZfeerk?e=mKrO6R&download=1)
 - [v2.6.0001](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDsRcLZIXZhRri-HH3yK8mcATrCAXvIJnJSQlV6JjoMdh8?e=047Po1&download=1)
+
+#### Local Agent for Terminal Management (SQL 2022)
+- [Firmware TM v2.6.0202](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDFCt58We4BRqifZsZedMazAdb_PjDEiHQNcF8NdLSjJfI?e=fimpCn&download=1)
+- [Firmware TM v2.6.0101](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC5CI_3v-hWQb3Emgt-dspyASu93qW1uFL2nNBe8fUmeL0?e=kbMXgj&download=1)
+- [Firmware TM v2.6.0053](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAgFeL-lR1rQJ4r6s5-WdA0Ac8c2_wkWxragJYJLGplQcg?e=nczbgE&download=1)
 
 
 ## Local Agent (SQL 2008)
