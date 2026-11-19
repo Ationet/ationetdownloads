@@ -1,4 +1,3 @@
-<img width="747" height="267" alt="image" src="https://github.com/user-attachments/assets/a8720ccf-91d5-41a8-a9a1-7dc72a37239c" />
 <p align="center">
   <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
 </p>
