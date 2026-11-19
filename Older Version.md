@@ -47,6 +47,7 @@
 ## ATIONET RevoPOS
 
 ## Verifone T650p Terminal
+- [v2.1.18](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQDJTHmSbRLjQroLsEXwzeQTAbgv5Eo9liOaX8PwR6yTmow?e=58EESf&download=1)
 - [2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQD_BudgvnKBT6yoGevy98CtAV5XOrPkiHZYjlGg6x8c3qg?e=m30liX&download=1)
 - [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAai2hbVj6pQpz3SxxZBCD3AbRgzoCE_ESOwA0ZCXz6QXY?e=OhlsXd&download=1)
 - [v2.1.5](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCDbq-zhvd5T6eGuS12JPT3AVB-O5PS--oPvibPe6PLgMw?e=cOsrHI&download=1)
@@ -55,10 +56,12 @@
 - [v2.0.22](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCD6Ecrzmk5QKvhr-nXnlp4AehYugfYF_C7-edJ_fEUUgg?e=2fWkWn&download=1)
 
 ## NewLand N910 Terminal
+- [v2.1.18](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQCW_qOU1z2aRKnb5SLRr2NoAb4bIi_tpJWrgyi4eNCfweQ?e=dV78dJ&download=1)
 - [2.1.14](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQAiuo-nFIejQLwJ9lNmlnXPAYsfR3dZ3iF0QC1wLf4Zwrg?e=gxuJIP&download=1)
 - [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBndcLoR8XhQI6bv_dOshGNAf9OencEb9bJ4-Lsw28y3Dg?e=v5LsCC&download=1)
 
 ## Urovo i9000s Terminal
+- [2.1.18](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBQObx3COIdQ5-aFR3vLTbeAW69K61uf0__lh5smWSCp4o?e=eKuBwW&download=1)
 - [v2.1.8](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQC4kxWT1hojTYTWNhH9ntKsASeg09uloo4_clr20Xf-lEs?e=ceCZsz&download=1)
 - [v2.1.2](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBrf5V72tRPT6Su-jfLEbh-AU7tzJ_X7hbj-0BY3Ygbt_k?e=hsMOOI&download=1)
 - [v2.0.11.31335](https://atioinc-my.sharepoint.com/:u:/g/personal/support_ationet_com/IQBtKlHjLZsMR6FVnidVD4L3AYhPvfLvn-uW1FGadvH1oSI?e=n7GuOP&download=1)
